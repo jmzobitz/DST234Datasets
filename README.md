@@ -1,2 +1,2 @@
-# MAT213Datasets
-A repository for datasets for MAT 213: Data Visualization and Statistical Computing
+# DST234Datasets
+A repository for datasets for DST 234: Introduction to Data Science (and R)
