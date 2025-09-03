@@ -1,0 +1,1441 @@
+"Unweighted_Sample","Weighted_Sample","Question","Nationality","Gender","Rank (text)","Rank (number)","Percentage"
+454,530,"They are good looking","American","Men","Ranked first",1,0.18
+454,530,"They are good looking","American","Men","Ranked second",2,0.13
+454,530,"They are good looking","American","Men","Ranked third",3,0.16
+454,530,"They are good looking","American","Men","Ranked fourth",4,0.19
+454,530,"They are good looking","American","Men","Ranked fifth",5,0.25
+454,530,"They are good looking","American","Men","Ranked sixth",6,0.09
+454,530,"They have a personality I like","American","Men","Ranked first",1,0.41
+454,530,"They have a personality I like","American","Men","Ranked second",2,0.24
+454,530,"They have a personality I like","American","Men","Ranked third",3,0.15
+454,530,"They have a personality I like","American","Men","Ranked fourth",4,0.08
+454,530,"They have a personality I like","American","Men","Ranked fifth",5,0.08
+454,530,"They have a personality I like","American","Men","Ranked sixth",6,0.05
+454,530,"They have a sense of humour I like","American","Men","Ranked first",1,0.09
+454,530,"They have a sense of humour I like","American","Men","Ranked second",2,0.23
+454,530,"They have a sense of humour I like","American","Men","Ranked third",3,0.25
+454,530,"They have a sense of humour I like","American","Men","Ranked fourth",4,0.26
+454,530,"They have a sense of humour I like","American","Men","Ranked fifth",5,0.13
+454,530,"They have a sense of humour I like","American","Men","Ranked sixth",6,0.05
+454,530,"They are intelligent","American","Men","Ranked first",1,0.13
+454,530,"They are intelligent","American","Men","Ranked second",2,0.18
+454,530,"They are intelligent","American","Men","Ranked third",3,0.22
+454,530,"They are intelligent","American","Men","Ranked fourth",4,0.22
+454,530,"They are intelligent","American","Men","Ranked fifth",5,0.2
+454,530,"They are intelligent","American","Men","Ranked sixth",6,0.04
+454,530,"They have/make a decent amount of money","American","Men","Ranked first",1,0.02
+454,530,"They have/make a decent amount of money","American","Men","Ranked second",2,0.04
+454,530,"They have/make a decent amount of money","American","Men","Ranked third",3,0.06
+454,530,"They have/make a decent amount of money","American","Men","Ranked fourth",4,0.06
+454,530,"They have/make a decent amount of money","American","Men","Ranked fifth",5,0.15
+454,530,"They have/make a decent amount of money","American","Men","Ranked sixth",6,0.68
+454,530,"They have similar interests to me","American","Men","Ranked first",1,0.17
+454,530,"They have similar interests to me","American","Men","Ranked second",2,0.18
+454,530,"They have similar interests to me","American","Men","Ranked third",3,0.16
+454,530,"They have similar interests to me","American","Men","Ranked fourth",4,0.19
+454,530,"They have similar interests to me","American","Men","Ranked fifth",5,0.21
+454,530,"They have similar interests to me","American","Men","Ranked sixth",6,0.09
+634,543,"They are good looking","American","Women","Ranked first",1,0.1
+634,543,"They are good looking","American","Women","Ranked second",2,0.07
+634,543,"They are good looking","American","Women","Ranked third",3,0.06
+634,543,"They are good looking","American","Women","Ranked fourth",4,0.13
+634,543,"They are good looking","American","Women","Ranked fifth",5,0.34
+634,543,"They are good looking","American","Women","Ranked sixth",6,0.29
+634,543,"They have a personality I like","American","Women","Ranked first",1,0.38
+634,543,"They have a personality I like","American","Women","Ranked second",2,0.26
+634,543,"They have a personality I like","American","Women","Ranked third",3,0.2
+634,543,"They have a personality I like","American","Women","Ranked fourth",4,0.09
+634,543,"They have a personality I like","American","Women","Ranked fifth",5,0.04
+634,543,"They have a personality I like","American","Women","Ranked sixth",6,0.03
+634,543,"They have a sense of humour I like","American","Women","Ranked first",1,0.13
+634,543,"They have a sense of humour I like","American","Women","Ranked second",2,0.27
+634,543,"They have a sense of humour I like","American","Women","Ranked third",3,0.24
+634,543,"They have a sense of humour I like","American","Women","Ranked fourth",4,0.18
+634,543,"They have a sense of humour I like","American","Women","Ranked fifth",5,0.11
+634,543,"They have a sense of humour I like","American","Women","Ranked sixth",6,0.07
+634,543,"They are intelligent","American","Women","Ranked first",1,0.15
+634,543,"They are intelligent","American","Women","Ranked second",2,0.19
+634,543,"They are intelligent","American","Women","Ranked third",3,0.25
+634,543,"They are intelligent","American","Women","Ranked fourth",4,0.28
+634,543,"They are intelligent","American","Women","Ranked fifth",5,0.08
+634,543,"They are intelligent","American","Women","Ranked sixth",6,0.04
+634,543,"They have/make a decent amount of money","American","Women","Ranked first",1,0.03
+634,543,"They have/make a decent amount of money","American","Women","Ranked second",2,0.04
+634,543,"They have/make a decent amount of money","American","Women","Ranked third",3,0.06
+634,543,"They have/make a decent amount of money","American","Women","Ranked fourth",4,0.1
+634,543,"They have/make a decent amount of money","American","Women","Ranked fifth",5,0.27
+634,543,"They have/make a decent amount of money","American","Women","Ranked sixth",6,0.49
+634,543,"They have similar interests to me","American","Women","Ranked first",1,0.2
+634,543,"They have similar interests to me","American","Women","Ranked second",2,0.17
+634,543,"They have similar interests to me","American","Women","Ranked third",3,0.18
+634,543,"They have similar interests to me","American","Women","Ranked fourth",4,0.22
+634,543,"They have similar interests to me","American","Women","Ranked fifth",5,0.15
+634,543,"They have similar interests to me","American","Women","Ranked sixth",6,0.08
+594,571,"They are good looking","Arabian","Men","Ranked first",1,0.35
+594,571,"They are good looking","Arabian","Men","Ranked second",2,0.18
+594,571,"They are good looking","Arabian","Men","Ranked third",3,0.16
+594,571,"They are good looking","Arabian","Men","Ranked fourth",4,0.15
+594,571,"They are good looking","Arabian","Men","Ranked fifth",5,0.11
+594,571,"They are good looking","Arabian","Men","Ranked sixth",6,0.05
+594,571,"They have a personality I like","Arabian","Men","Ranked first",1,0.29
+594,571,"They have a personality I like","Arabian","Men","Ranked second",2,0.26
+594,571,"They have a personality I like","Arabian","Men","Ranked third",3,0.15
+594,571,"They have a personality I like","Arabian","Men","Ranked fourth",4,0.12
+594,571,"They have a personality I like","Arabian","Men","Ranked fifth",5,0.13
+594,571,"They have a personality I like","Arabian","Men","Ranked sixth",6,0.05
+594,571,"They have a sense of humour I like","Arabian","Men","Ranked first",1,0.04
+594,571,"They have a sense of humour I like","Arabian","Men","Ranked second",2,0.13
+594,571,"They have a sense of humour I like","Arabian","Men","Ranked third",3,0.24
+594,571,"They have a sense of humour I like","Arabian","Men","Ranked fourth",4,0.27
+594,571,"They have a sense of humour I like","Arabian","Men","Ranked fifth",5,0.22
+594,571,"They have a sense of humour I like","Arabian","Men","Ranked sixth",6,0.09
+594,571,"They are intelligent","Arabian","Men","Ranked first",1,0.15
+594,571,"They are intelligent","Arabian","Men","Ranked second",2,0.21
+594,571,"They are intelligent","Arabian","Men","Ranked third",3,0.27
+594,571,"They are intelligent","Arabian","Men","Ranked fourth",4,0.21
+594,571,"They are intelligent","Arabian","Men","Ranked fifth",5,0.13
+594,571,"They are intelligent","Arabian","Men","Ranked sixth",6,0.03
+594,571,"They have/make a decent amount of money","Arabian","Men","Ranked first",1,0.02
+594,571,"They have/make a decent amount of money","Arabian","Men","Ranked second",2,0.03
+594,571,"They have/make a decent amount of money","Arabian","Men","Ranked third",3,0.04
+594,571,"They have/make a decent amount of money","Arabian","Men","Ranked fourth",4,0.1
+594,571,"They have/make a decent amount of money","Arabian","Men","Ranked fifth",5,0.16
+594,571,"They have/make a decent amount of money","Arabian","Men","Ranked sixth",6,0.65
+594,571,"They have similar interests to me","Arabian","Men","Ranked first",1,0.15
+594,571,"They have similar interests to me","Arabian","Men","Ranked second",2,0.19
+594,571,"They have similar interests to me","Arabian","Men","Ranked third",3,0.13
+594,571,"They have similar interests to me","Arabian","Men","Ranked fourth",4,0.15
+594,571,"They have similar interests to me","Arabian","Men","Ranked fifth",5,0.25
+594,571,"They have similar interests to me","Arabian","Men","Ranked sixth",6,0.13
+406,429,"They are good looking","Arabian","Women","Ranked first",1,0.11
+406,429,"They are good looking","Arabian","Women","Ranked second",2,0.1
+406,429,"They are good looking","Arabian","Women","Ranked third",3,0.13
+406,429,"They are good looking","Arabian","Women","Ranked fourth",4,0.17
+406,429,"They are good looking","Arabian","Women","Ranked fifth",5,0.3
+406,429,"They are good looking","Arabian","Women","Ranked sixth",6,0.19
+406,429,"They have a personality I like","Arabian","Women","Ranked first",1,0.45
+406,429,"They have a personality I like","Arabian","Women","Ranked second",2,0.2
+406,429,"They have a personality I like","Arabian","Women","Ranked third",3,0.14
+406,429,"They have a personality I like","Arabian","Women","Ranked fourth",4,0.08
+406,429,"They have a personality I like","Arabian","Women","Ranked fifth",5,0.09
+406,429,"They have a personality I like","Arabian","Women","Ranked sixth",6,0.05
+406,429,"They have a sense of humour I like","Arabian","Women","Ranked first",1,0.06
+406,429,"They have a sense of humour I like","Arabian","Women","Ranked second",2,0.16
+406,429,"They have a sense of humour I like","Arabian","Women","Ranked third",3,0.19
+406,429,"They have a sense of humour I like","Arabian","Women","Ranked fourth",4,0.24
+406,429,"They have a sense of humour I like","Arabian","Women","Ranked fifth",5,0.19
+406,429,"They have a sense of humour I like","Arabian","Women","Ranked sixth",6,0.16
+406,429,"They are intelligent","Arabian","Women","Ranked first",1,0.15
+406,429,"They are intelligent","Arabian","Women","Ranked second",2,0.25
+406,429,"They are intelligent","Arabian","Women","Ranked third",3,0.22
+406,429,"They are intelligent","Arabian","Women","Ranked fourth",4,0.17
+406,429,"They are intelligent","Arabian","Women","Ranked fifth",5,0.11
+406,429,"They are intelligent","Arabian","Women","Ranked sixth",6,0.1
+406,429,"They have/make a decent amount of money","Arabian","Women","Ranked first",1,0.04
+406,429,"They have/make a decent amount of money","Arabian","Women","Ranked second",2,0.09
+406,429,"They have/make a decent amount of money","Arabian","Women","Ranked third",3,0.14
+406,429,"They have/make a decent amount of money","Arabian","Women","Ranked fourth",4,0.14
+406,429,"They have/make a decent amount of money","Arabian","Women","Ranked fifth",5,0.22
+406,429,"They have/make a decent amount of money","Arabian","Women","Ranked sixth",6,0.37
+406,429,"They have similar interests to me","Arabian","Women","Ranked first",1,0.19
+406,429,"They have similar interests to me","Arabian","Women","Ranked second",2,0.21
+406,429,"They have similar interests to me","Arabian","Women","Ranked third",3,0.17
+406,429,"They have similar interests to me","Arabian","Women","Ranked fourth",4,0.2
+406,429,"They have similar interests to me","Arabian","Women","Ranked fifth",5,0.09
+406,429,"They have similar interests to me","Arabian","Women","Ranked sixth",6,0.14
+483,501,"They are good looking","Australian","Men","Ranked first",1,0.18
+483,501,"They are good looking","Australian","Men","Ranked second",2,0.13
+483,501,"They are good looking","Australian","Men","Ranked third",3,0.17
+483,501,"They are good looking","Australian","Men","Ranked fourth",4,0.19
+483,501,"They are good looking","Australian","Men","Ranked fifth",5,0.26
+483,501,"They are good looking","Australian","Men","Ranked sixth",6,0.08
+483,501,"They have a personality I like","Australian","Men","Ranked first",1,0.42
+483,501,"They have a personality I like","Australian","Men","Ranked second",2,0.23
+483,501,"They have a personality I like","Australian","Men","Ranked third",3,0.15
+483,501,"They have a personality I like","Australian","Men","Ranked fourth",4,0.09
+483,501,"They have a personality I like","Australian","Men","Ranked fifth",5,0.07
+483,501,"They have a personality I like","Australian","Men","Ranked sixth",6,0.03
+483,501,"They have a sense of humour I like","Australian","Men","Ranked first",1,0.1
+483,501,"They have a sense of humour I like","Australian","Men","Ranked second",2,0.27
+483,501,"They have a sense of humour I like","Australian","Men","Ranked third",3,0.27
+483,501,"They have a sense of humour I like","Australian","Men","Ranked fourth",4,0.18
+483,501,"They have a sense of humour I like","Australian","Men","Ranked fifth",5,0.14
+483,501,"They have a sense of humour I like","Australian","Men","Ranked sixth",6,0.03
+483,501,"They are intelligent","Australian","Men","Ranked first",1,0.14
+483,501,"They are intelligent","Australian","Men","Ranked second",2,0.16
+483,501,"They are intelligent","Australian","Men","Ranked third",3,0.2
+483,501,"They are intelligent","Australian","Men","Ranked fourth",4,0.25
+483,501,"They are intelligent","Australian","Men","Ranked fifth",5,0.18
+483,501,"They are intelligent","Australian","Men","Ranked sixth",6,0.06
+483,501,"They have/make a decent amount of money","Australian","Men","Ranked first",1,0.02
+483,501,"They have/make a decent amount of money","Australian","Men","Ranked second",2,0.03
+483,501,"They have/make a decent amount of money","Australian","Men","Ranked third",3,0.05
+483,501,"They have/make a decent amount of money","Australian","Men","Ranked fourth",4,0.06
+483,501,"They have/make a decent amount of money","Australian","Men","Ranked fifth",5,0.13
+483,501,"They have/make a decent amount of money","Australian","Men","Ranked sixth",6,0.7
+483,501,"They have similar interests to me","Australian","Men","Ranked first",1,0.13
+483,501,"They have similar interests to me","Australian","Men","Ranked second",2,0.18
+483,501,"They have similar interests to me","Australian","Men","Ranked third",3,0.15
+483,501,"They have similar interests to me","Australian","Men","Ranked fourth",4,0.22
+483,501,"They have similar interests to me","Australian","Men","Ranked fifth",5,0.22
+483,501,"They have similar interests to me","Australian","Men","Ranked sixth",6,0.09
+525,507,"They are good looking","Australian","Women","Ranked first",1,0.1
+525,507,"They are good looking","Australian","Women","Ranked second",2,0.07
+525,507,"They are good looking","Australian","Women","Ranked third",3,0.16
+525,507,"They are good looking","Australian","Women","Ranked fourth",4,0.12
+525,507,"They are good looking","Australian","Women","Ranked fifth",5,0.37
+525,507,"They are good looking","Australian","Women","Ranked sixth",6,0.19
+525,507,"They have a personality I like","Australian","Women","Ranked first",1,0.49
+525,507,"They have a personality I like","Australian","Women","Ranked second",2,0.24
+525,507,"They have a personality I like","Australian","Women","Ranked third",3,0.14
+525,507,"They have a personality I like","Australian","Women","Ranked fourth",4,0.08
+525,507,"They have a personality I like","Australian","Women","Ranked fifth",5,0.04
+525,507,"They have a personality I like","Australian","Women","Ranked sixth",6,0.02
+525,507,"They have a sense of humour I like","Australian","Women","Ranked first",1,0.15
+525,507,"They have a sense of humour I like","Australian","Women","Ranked second",2,0.32
+525,507,"They have a sense of humour I like","Australian","Women","Ranked third",3,0.24
+525,507,"They have a sense of humour I like","Australian","Women","Ranked fourth",4,0.16
+525,507,"They have a sense of humour I like","Australian","Women","Ranked fifth",5,0.08
+525,507,"They have a sense of humour I like","Australian","Women","Ranked sixth",6,0.05
+525,507,"They are intelligent","Australian","Women","Ranked first",1,0.1
+525,507,"They are intelligent","Australian","Women","Ranked second",2,0.19
+525,507,"They are intelligent","Australian","Women","Ranked third",3,0.2
+525,507,"They are intelligent","Australian","Women","Ranked fourth",4,0.27
+525,507,"They are intelligent","Australian","Women","Ranked fifth",5,0.19
+525,507,"They are intelligent","Australian","Women","Ranked sixth",6,0.05
+525,507,"They have/make a decent amount of money","Australian","Women","Ranked first",1,0.01
+525,507,"They have/make a decent amount of money","Australian","Women","Ranked second",2,0.03
+525,507,"They have/make a decent amount of money","Australian","Women","Ranked third",3,0.07
+525,507,"They have/make a decent amount of money","Australian","Women","Ranked fourth",4,0.11
+525,507,"They have/make a decent amount of money","Australian","Women","Ranked fifth",5,0.2
+525,507,"They have/make a decent amount of money","Australian","Women","Ranked sixth",6,0.59
+525,507,"They have similar interests to me","Australian","Women","Ranked first",1,0.15
+525,507,"They have similar interests to me","Australian","Women","Ranked second",2,0.15
+525,507,"They have similar interests to me","Australian","Women","Ranked third",3,0.2
+525,507,"They have similar interests to me","Australian","Women","Ranked fourth",4,0.25
+525,507,"They have similar interests to me","Australian","Women","Ranked fifth",5,0.14
+525,507,"They have similar interests to me","Australian","Women","Ranked sixth",6,0.11
+680,779,"They are good looking","British","Men","Ranked first",1,0.14
+680,779,"They are good looking","British","Men","Ranked second",2,0.15
+680,779,"They are good looking","British","Men","Ranked third",3,0.18
+680,779,"They are good looking","British","Men","Ranked fourth",4,0.2
+680,779,"They are good looking","British","Men","Ranked fifth",5,0.27
+680,779,"They are good looking","British","Men","Ranked sixth",6,0.06
+680,779,"They have a personality I like","British","Men","Ranked first",1,0.52
+680,779,"They have a personality I like","British","Men","Ranked second",2,0.23
+680,779,"They have a personality I like","British","Men","Ranked third",3,0.14
+680,779,"They have a personality I like","British","Men","Ranked fourth",4,0.05
+680,779,"They have a personality I like","British","Men","Ranked fifth",5,0.04
+680,779,"They have a personality I like","British","Men","Ranked sixth",6,0.02
+680,779,"They have a sense of humour I like","British","Men","Ranked first",1,0.13
+680,779,"They have a sense of humour I like","British","Men","Ranked second",2,0.32
+680,779,"They have a sense of humour I like","British","Men","Ranked third",3,0.25
+680,779,"They have a sense of humour I like","British","Men","Ranked fourth",4,0.21
+680,779,"They have a sense of humour I like","British","Men","Ranked fifth",5,0.08
+680,779,"They have a sense of humour I like","British","Men","Ranked sixth",6,0.02
+680,779,"They are intelligent","British","Men","Ranked first",1,0.1
+680,779,"They are intelligent","British","Men","Ranked second",2,0.13
+680,779,"They are intelligent","British","Men","Ranked third",3,0.22
+680,779,"They are intelligent","British","Men","Ranked fourth",4,0.26
+680,779,"They are intelligent","British","Men","Ranked fifth",5,0.27
+680,779,"They are intelligent","British","Men","Ranked sixth",6,0.02
+680,779,"They have/make a decent amount of money","British","Men","Ranked first",1,0.01
+680,779,"They have/make a decent amount of money","British","Men","Ranked second",2,0.02
+680,779,"They have/make a decent amount of money","British","Men","Ranked third",3,0.02
+680,779,"They have/make a decent amount of money","British","Men","Ranked fourth",4,0.02
+680,779,"They have/make a decent amount of money","British","Men","Ranked fifth",5,0.09
+680,779,"They have/make a decent amount of money","British","Men","Ranked sixth",6,0.85
+680,779,"They have similar interests to me","British","Men","Ranked first",1,0.1
+680,779,"They have similar interests to me","British","Men","Ranked second",2,0.16
+680,779,"They have similar interests to me","British","Men","Ranked third",3,0.2
+680,779,"They have similar interests to me","British","Men","Ranked fourth",4,0.25
+680,779,"They have similar interests to me","British","Men","Ranked fifth",5,0.26
+680,779,"They have similar interests to me","British","Men","Ranked sixth",6,0.03
+929,830,"They are good looking","British","Women","Ranked first",1,0.05
+929,830,"They are good looking","British","Women","Ranked second",2,0.06
+929,830,"They are good looking","British","Women","Ranked third",3,0.09
+929,830,"They are good looking","British","Women","Ranked fourth",4,0.17
+929,830,"They are good looking","British","Women","Ranked fifth",5,0.41
+929,830,"They are good looking","British","Women","Ranked sixth",6,0.21
+929,830,"They have a personality I like","British","Women","Ranked first",1,0.52
+929,830,"They have a personality I like","British","Women","Ranked second",2,0.25
+929,830,"They have a personality I like","British","Women","Ranked third",3,0.16
+929,830,"They have a personality I like","British","Women","Ranked fourth",4,0.05
+929,830,"They have a personality I like","British","Women","Ranked fifth",5,0.02
+929,830,"They have a personality I like","British","Women","Ranked sixth",6,0.01
+929,830,"They have a sense of humour I like","British","Women","Ranked first",1,0.21
+929,830,"They have a sense of humour I like","British","Women","Ranked second",2,0.33
+929,830,"They have a sense of humour I like","British","Women","Ranked third",3,0.24
+929,830,"They have a sense of humour I like","British","Women","Ranked fourth",4,0.14
+929,830,"They have a sense of humour I like","British","Women","Ranked fifth",5,0.07
+929,830,"They have a sense of humour I like","British","Women","Ranked sixth",6,0.01
+929,830,"They are intelligent","British","Women","Ranked first",1,0.08
+929,830,"They are intelligent","British","Women","Ranked second",2,0.14
+929,830,"They are intelligent","British","Women","Ranked third",3,0.2
+929,830,"They are intelligent","British","Women","Ranked fourth",4,0.39
+929,830,"They are intelligent","British","Women","Ranked fifth",5,0.16
+929,830,"They are intelligent","British","Women","Ranked sixth",6,0.04
+929,830,"They have/make a decent amount of money","British","Women","Ranked first",1,0.01
+929,830,"They have/make a decent amount of money","British","Women","Ranked second",2,0.02
+929,830,"They have/make a decent amount of money","British","Women","Ranked third",3,0.03
+929,830,"They have/make a decent amount of money","British","Women","Ranked fourth",4,0.05
+929,830,"They have/make a decent amount of money","British","Women","Ranked fifth",5,0.22
+929,830,"They have/make a decent amount of money","British","Women","Ranked sixth",6,0.67
+929,830,"They have similar interests to me","British","Women","Ranked first",1,0.13
+929,830,"They have similar interests to me","British","Women","Ranked second",2,0.21
+929,830,"They have similar interests to me","British","Women","Ranked third",3,0.28
+929,830,"They have similar interests to me","British","Women","Ranked fourth",4,0.2
+929,830,"They have similar interests to me","British","Women","Ranked fifth",5,0.13
+929,830,"They have similar interests to me","British","Women","Ranked sixth",6,0.06
+506,504,"They are good looking","Danish","Men","Ranked first",1,0.11
+506,504,"They are good looking","Danish","Men","Ranked second",2,0.16
+506,504,"They are good looking","Danish","Men","Ranked third",3,0.18
+506,504,"They are good looking","Danish","Men","Ranked fourth",4,0.22
+506,504,"They are good looking","Danish","Men","Ranked fifth",5,0.28
+506,504,"They are good looking","Danish","Men","Ranked sixth",6,0.05
+506,504,"They have a personality I like","Danish","Men","Ranked first",1,0.68
+506,504,"They have a personality I like","Danish","Men","Ranked second",2,0.18
+506,504,"They have a personality I like","Danish","Men","Ranked third",3,0.08
+506,504,"They have a personality I like","Danish","Men","Ranked fourth",4,0.03
+506,504,"They have a personality I like","Danish","Men","Ranked fifth",5,0.02
+506,504,"They have a personality I like","Danish","Men","Ranked sixth",6,0.01
+506,504,"They have a sense of humour I like","Danish","Men","Ranked first",1,0.08
+506,504,"They have a sense of humour I like","Danish","Men","Ranked second",2,0.37
+506,504,"They have a sense of humour I like","Danish","Men","Ranked third",3,0.25
+506,504,"They have a sense of humour I like","Danish","Men","Ranked fourth",4,0.19
+506,504,"They have a sense of humour I like","Danish","Men","Ranked fifth",5,0.09
+506,504,"They have a sense of humour I like","Danish","Men","Ranked sixth",6,0.02
+506,504,"They are intelligent","Danish","Men","Ranked first",1,0.09
+506,504,"They are intelligent","Danish","Men","Ranked second",2,0.15
+506,504,"They are intelligent","Danish","Men","Ranked third",3,0.31
+506,504,"They are intelligent","Danish","Men","Ranked fourth",4,0.28
+506,504,"They are intelligent","Danish","Men","Ranked fifth",5,0.14
+506,504,"They are intelligent","Danish","Men","Ranked sixth",6,0.02
+506,504,"They have/make a decent amount of money","Danish","Men","Ranked first",1,0
+506,504,"They have/make a decent amount of money","Danish","Men","Ranked second",2,0.01
+506,504,"They have/make a decent amount of money","Danish","Men","Ranked third",3,0.03
+506,504,"They have/make a decent amount of money","Danish","Men","Ranked fourth",4,0.03
+506,504,"They have/make a decent amount of money","Danish","Men","Ranked fifth",5,0.11
+506,504,"They have/make a decent amount of money","Danish","Men","Ranked sixth",6,0.81
+506,504,"They have similar interests to me","Danish","Men","Ranked first",1,0.04
+506,504,"They have similar interests to me","Danish","Men","Ranked second",2,0.12
+506,504,"They have similar interests to me","Danish","Men","Ranked third",3,0.15
+506,504,"They have similar interests to me","Danish","Men","Ranked fourth",4,0.25
+506,504,"They have similar interests to me","Danish","Men","Ranked fifth",5,0.35
+506,504,"They have similar interests to me","Danish","Men","Ranked sixth",6,0.08
+502,503,"They are good looking","Danish","Women","Ranked first",1,0.05
+502,503,"They are good looking","Danish","Women","Ranked second",2,0.06
+502,503,"They are good looking","Danish","Women","Ranked third",3,0.11
+502,503,"They are good looking","Danish","Women","Ranked fourth",4,0.19
+502,503,"They are good looking","Danish","Women","Ranked fifth",5,0.44
+502,503,"They are good looking","Danish","Women","Ranked sixth",6,0.16
+502,503,"They have a personality I like","Danish","Women","Ranked first",1,0.69
+502,503,"They have a personality I like","Danish","Women","Ranked second",2,0.17
+502,503,"They have a personality I like","Danish","Women","Ranked third",3,0.1
+502,503,"They have a personality I like","Danish","Women","Ranked fourth",4,0.02
+502,503,"They have a personality I like","Danish","Women","Ranked fifth",5,0.01
+502,503,"They have a personality I like","Danish","Women","Ranked sixth",6,0.01
+502,503,"They have a sense of humour I like","Danish","Women","Ranked first",1,0.14
+502,503,"They have a sense of humour I like","Danish","Women","Ranked second",2,0.45
+502,503,"They have a sense of humour I like","Danish","Women","Ranked third",3,0.25
+502,503,"They have a sense of humour I like","Danish","Women","Ranked fourth",4,0.11
+502,503,"They have a sense of humour I like","Danish","Women","Ranked fifth",5,0.03
+502,503,"They have a sense of humour I like","Danish","Women","Ranked sixth",6,0.01
+502,503,"They are intelligent","Danish","Women","Ranked first",1,0.07
+502,503,"They are intelligent","Danish","Women","Ranked second",2,0.19
+502,503,"They are intelligent","Danish","Women","Ranked third",3,0.31
+502,503,"They are intelligent","Danish","Women","Ranked fourth",4,0.29
+502,503,"They are intelligent","Danish","Women","Ranked fifth",5,0.12
+502,503,"They are intelligent","Danish","Women","Ranked sixth",6,0.02
+502,503,"They have/make a decent amount of money","Danish","Women","Ranked first",1,0
+502,503,"They have/make a decent amount of money","Danish","Women","Ranked second",2,0.02
+502,503,"They have/make a decent amount of money","Danish","Women","Ranked third",3,0.02
+502,503,"They have/make a decent amount of money","Danish","Women","Ranked fourth",4,0.04
+502,503,"They have/make a decent amount of money","Danish","Women","Ranked fifth",5,0.2
+502,503,"They have/make a decent amount of money","Danish","Women","Ranked sixth",6,0.72
+502,503,"They have similar interests to me","Danish","Women","Ranked first",1,0.05
+502,503,"They have similar interests to me","Danish","Women","Ranked second",2,0.12
+502,503,"They have similar interests to me","Danish","Women","Ranked third",3,0.21
+502,503,"They have similar interests to me","Danish","Women","Ranked fourth",4,0.34
+502,503,"They have similar interests to me","Danish","Women","Ranked fifth",5,0.2
+502,503,"They have similar interests to me","Danish","Women","Ranked sixth",6,0.08
+524,511,"They are good looking","Egyptian","Men","Ranked first",1,0.31
+524,511,"They are good looking","Egyptian","Men","Ranked second",2,0.19
+524,511,"They are good looking","Egyptian","Men","Ranked third",3,0.18
+524,511,"They are good looking","Egyptian","Men","Ranked fourth",4,0.13
+524,511,"They are good looking","Egyptian","Men","Ranked fifth",5,0.15
+524,511,"They are good looking","Egyptian","Men","Ranked sixth",6,0.03
+524,511,"They have a personality I like","Egyptian","Men","Ranked first",1,0.36
+524,511,"They have a personality I like","Egyptian","Men","Ranked second",2,0.23
+524,511,"They have a personality I like","Egyptian","Men","Ranked third",3,0.17
+524,511,"They have a personality I like","Egyptian","Men","Ranked fourth",4,0.12
+524,511,"They have a personality I like","Egyptian","Men","Ranked fifth",5,0.07
+524,511,"They have a personality I like","Egyptian","Men","Ranked sixth",6,0.05
+524,511,"They have a sense of humour I like","Egyptian","Men","Ranked first",1,0.06
+524,511,"They have a sense of humour I like","Egyptian","Men","Ranked second",2,0.16
+524,511,"They have a sense of humour I like","Egyptian","Men","Ranked third",3,0.16
+524,511,"They have a sense of humour I like","Egyptian","Men","Ranked fourth",4,0.27
+524,511,"They have a sense of humour I like","Egyptian","Men","Ranked fifth",5,0.27
+524,511,"They have a sense of humour I like","Egyptian","Men","Ranked sixth",6,0.07
+524,511,"They are intelligent","Egyptian","Men","Ranked first",1,0.15
+524,511,"They are intelligent","Egyptian","Men","Ranked second",2,0.24
+524,511,"They are intelligent","Egyptian","Men","Ranked third",3,0.25
+524,511,"They are intelligent","Egyptian","Men","Ranked fourth",4,0.22
+524,511,"They are intelligent","Egyptian","Men","Ranked fifth",5,0.11
+524,511,"They are intelligent","Egyptian","Men","Ranked sixth",6,0.03
+524,511,"They have/make a decent amount of money","Egyptian","Men","Ranked first",1,0.01
+524,511,"They have/make a decent amount of money","Egyptian","Men","Ranked second",2,0.03
+524,511,"They have/make a decent amount of money","Egyptian","Men","Ranked third",3,0.05
+524,511,"They have/make a decent amount of money","Egyptian","Men","Ranked fourth",4,0.05
+524,511,"They have/make a decent amount of money","Egyptian","Men","Ranked fifth",5,0.13
+524,511,"They have/make a decent amount of money","Egyptian","Men","Ranked sixth",6,0.72
+524,511,"They have similar interests to me","Egyptian","Men","Ranked first",1,0.11
+524,511,"They have similar interests to me","Egyptian","Men","Ranked second",2,0.14
+524,511,"They have similar interests to me","Egyptian","Men","Ranked third",3,0.19
+524,511,"They have similar interests to me","Egyptian","Men","Ranked fourth",4,0.21
+524,511,"They have similar interests to me","Egyptian","Men","Ranked fifth",5,0.26
+524,511,"They have similar interests to me","Egyptian","Men","Ranked sixth",6,0.09
+478,491,"They are good looking","Egyptian","Women","Ranked first",1,0.12
+478,491,"They are good looking","Egyptian","Women","Ranked second",2,0.09
+478,491,"They are good looking","Egyptian","Women","Ranked third",3,0.13
+478,491,"They are good looking","Egyptian","Women","Ranked fourth",4,0.2
+478,491,"They are good looking","Egyptian","Women","Ranked fifth",5,0.27
+478,491,"They are good looking","Egyptian","Women","Ranked sixth",6,0.2
+478,491,"They have a personality I like","Egyptian","Women","Ranked first",1,0.53
+478,491,"They have a personality I like","Egyptian","Women","Ranked second",2,0.21
+478,491,"They have a personality I like","Egyptian","Women","Ranked third",3,0.11
+478,491,"They have a personality I like","Egyptian","Women","Ranked fourth",4,0.07
+478,491,"They have a personality I like","Egyptian","Women","Ranked fifth",5,0.06
+478,491,"They have a personality I like","Egyptian","Women","Ranked sixth",6,0.02
+478,491,"They have a sense of humour I like","Egyptian","Women","Ranked first",1,0.06
+478,491,"They have a sense of humour I like","Egyptian","Women","Ranked second",2,0.17
+478,491,"They have a sense of humour I like","Egyptian","Women","Ranked third",3,0.17
+478,491,"They have a sense of humour I like","Egyptian","Women","Ranked fourth",4,0.27
+478,491,"They have a sense of humour I like","Egyptian","Women","Ranked fifth",5,0.21
+478,491,"They have a sense of humour I like","Egyptian","Women","Ranked sixth",6,0.11
+478,491,"They are intelligent","Egyptian","Women","Ranked first",1,0.13
+478,491,"They are intelligent","Egyptian","Women","Ranked second",2,0.29
+478,491,"They are intelligent","Egyptian","Women","Ranked third",3,0.27
+478,491,"They are intelligent","Egyptian","Women","Ranked fourth",4,0.16
+478,491,"They are intelligent","Egyptian","Women","Ranked fifth",5,0.1
+478,491,"They are intelligent","Egyptian","Women","Ranked sixth",6,0.05
+478,491,"They have/make a decent amount of money","Egyptian","Women","Ranked first",1,0.01
+478,491,"They have/make a decent amount of money","Egyptian","Women","Ranked second",2,0.05
+478,491,"They have/make a decent amount of money","Egyptian","Women","Ranked third",3,0.1
+478,491,"They have/make a decent amount of money","Egyptian","Women","Ranked fourth",4,0.14
+478,491,"They have/make a decent amount of money","Egyptian","Women","Ranked fifth",5,0.22
+478,491,"They have/make a decent amount of money","Egyptian","Women","Ranked sixth",6,0.48
+478,491,"They have similar interests to me","Egyptian","Women","Ranked first",1,0.14
+478,491,"They have similar interests to me","Egyptian","Women","Ranked second",2,0.19
+478,491,"They have similar interests to me","Egyptian","Women","Ranked third",3,0.23
+478,491,"They have similar interests to me","Egyptian","Women","Ranked fourth",4,0.16
+478,491,"They have similar interests to me","Egyptian","Women","Ranked fifth",5,0.15
+478,491,"They have similar interests to me","Egyptian","Women","Ranked sixth",6,0.13
+479,559,"They are good looking","Filipino","Men","Ranked first",1,0.2
+479,559,"They are good looking","Filipino","Men","Ranked second",2,0.16
+479,559,"They are good looking","Filipino","Men","Ranked third",3,0.15
+479,559,"They are good looking","Filipino","Men","Ranked fourth",4,0.17
+479,559,"They are good looking","Filipino","Men","Ranked fifth",5,0.2
+479,559,"They are good looking","Filipino","Men","Ranked sixth",6,0.12
+479,559,"They have a personality I like","Filipino","Men","Ranked first",1,0.39
+479,559,"They have a personality I like","Filipino","Men","Ranked second",2,0.25
+479,559,"They have a personality I like","Filipino","Men","Ranked third",3,0.17
+479,559,"They have a personality I like","Filipino","Men","Ranked fourth",4,0.1
+479,559,"They have a personality I like","Filipino","Men","Ranked fifth",5,0.06
+479,559,"They have a personality I like","Filipino","Men","Ranked sixth",6,0.03
+479,559,"They have a sense of humour I like","Filipino","Men","Ranked first",1,0.1
+479,559,"They have a sense of humour I like","Filipino","Men","Ranked second",2,0.21
+479,559,"They have a sense of humour I like","Filipino","Men","Ranked third",3,0.21
+479,559,"They have a sense of humour I like","Filipino","Men","Ranked fourth",4,0.22
+479,559,"They have a sense of humour I like","Filipino","Men","Ranked fifth",5,0.18
+479,559,"They have a sense of humour I like","Filipino","Men","Ranked sixth",6,0.08
+479,559,"They are intelligent","Filipino","Men","Ranked first",1,0.16
+479,559,"They are intelligent","Filipino","Men","Ranked second",2,0.2
+479,559,"They are intelligent","Filipino","Men","Ranked third",3,0.23
+479,559,"They are intelligent","Filipino","Men","Ranked fourth",4,0.23
+479,559,"They are intelligent","Filipino","Men","Ranked fifth",5,0.15
+479,559,"They are intelligent","Filipino","Men","Ranked sixth",6,0.03
+479,559,"They have/make a decent amount of money","Filipino","Men","Ranked first",1,0.02
+479,559,"They have/make a decent amount of money","Filipino","Men","Ranked second",2,0.03
+479,559,"They have/make a decent amount of money","Filipino","Men","Ranked third",3,0.07
+479,559,"They have/make a decent amount of money","Filipino","Men","Ranked fourth",4,0.09
+479,559,"They have/make a decent amount of money","Filipino","Men","Ranked fifth",5,0.18
+479,559,"They have/make a decent amount of money","Filipino","Men","Ranked sixth",6,0.61
+479,559,"They have similar interests to me","Filipino","Men","Ranked first",1,0.13
+479,559,"They have similar interests to me","Filipino","Men","Ranked second",2,0.16
+479,559,"They have similar interests to me","Filipino","Men","Ranked third",3,0.15
+479,559,"They have similar interests to me","Filipino","Men","Ranked fourth",4,0.19
+479,559,"They have similar interests to me","Filipino","Men","Ranked fifth",5,0.23
+479,559,"They have similar interests to me","Filipino","Men","Ranked sixth",6,0.13
+618,538,"They are good looking","Filipino","Women","Ranked first",1,0.08
+618,538,"They are good looking","Filipino","Women","Ranked second",2,0.09
+618,538,"They are good looking","Filipino","Women","Ranked third",3,0.11
+618,538,"They are good looking","Filipino","Women","Ranked fourth",4,0.13
+618,538,"They are good looking","Filipino","Women","Ranked fifth",5,0.26
+618,538,"They are good looking","Filipino","Women","Ranked sixth",6,0.33
+618,538,"They have a personality I like","Filipino","Women","Ranked first",1,0.41
+618,538,"They have a personality I like","Filipino","Women","Ranked second",2,0.19
+618,538,"They have a personality I like","Filipino","Women","Ranked third",3,0.19
+618,538,"They have a personality I like","Filipino","Women","Ranked fourth",4,0.1
+618,538,"They have a personality I like","Filipino","Women","Ranked fifth",5,0.07
+618,538,"They have a personality I like","Filipino","Women","Ranked sixth",6,0.03
+618,538,"They have a sense of humour I like","Filipino","Women","Ranked first",1,0.16
+618,538,"They have a sense of humour I like","Filipino","Women","Ranked second",2,0.26
+618,538,"They have a sense of humour I like","Filipino","Women","Ranked third",3,0.21
+618,538,"They have a sense of humour I like","Filipino","Women","Ranked fourth",4,0.16
+618,538,"They have a sense of humour I like","Filipino","Women","Ranked fifth",5,0.12
+618,538,"They have a sense of humour I like","Filipino","Women","Ranked sixth",6,0.09
+618,538,"They are intelligent","Filipino","Women","Ranked first",1,0.17
+618,538,"They are intelligent","Filipino","Women","Ranked second",2,0.17
+618,538,"They are intelligent","Filipino","Women","Ranked third",3,0.21
+618,538,"They are intelligent","Filipino","Women","Ranked fourth",4,0.24
+618,538,"They are intelligent","Filipino","Women","Ranked fifth",5,0.15
+618,538,"They are intelligent","Filipino","Women","Ranked sixth",6,0.07
+618,538,"They have/make a decent amount of money","Filipino","Women","Ranked first",1,0.04
+618,538,"They have/make a decent amount of money","Filipino","Women","Ranked second",2,0.09
+618,538,"They have/make a decent amount of money","Filipino","Women","Ranked third",3,0.12
+618,538,"They have/make a decent amount of money","Filipino","Women","Ranked fourth",4,0.15
+618,538,"They have/make a decent amount of money","Filipino","Women","Ranked fifth",5,0.24
+618,538,"They have/make a decent amount of money","Filipino","Women","Ranked sixth",6,0.36
+618,538,"They have similar interests to me","Filipino","Women","Ranked first",1,0.13
+618,538,"They have similar interests to me","Filipino","Women","Ranked second",2,0.19
+618,538,"They have similar interests to me","Filipino","Women","Ranked third",3,0.17
+618,538,"They have similar interests to me","Filipino","Women","Ranked fourth",4,0.21
+618,538,"They have similar interests to me","Filipino","Women","Ranked fifth",5,0.16
+618,538,"They have similar interests to me","Filipino","Women","Ranked sixth",6,0.13
+502,503,"They are good looking","Finnish","Men","Ranked first",1,0.16
+502,503,"They are good looking","Finnish","Men","Ranked second",2,0.12
+502,503,"They are good looking","Finnish","Men","Ranked third",3,0.19
+502,503,"They are good looking","Finnish","Men","Ranked fourth",4,0.19
+502,503,"They are good looking","Finnish","Men","Ranked fifth",5,0.29
+502,503,"They are good looking","Finnish","Men","Ranked sixth",6,0.06
+502,503,"They have a personality I like","Finnish","Men","Ranked first",1,0.55
+502,503,"They have a personality I like","Finnish","Men","Ranked second",2,0.23
+502,503,"They have a personality I like","Finnish","Men","Ranked third",3,0.1
+502,503,"They have a personality I like","Finnish","Men","Ranked fourth",4,0.07
+502,503,"They have a personality I like","Finnish","Men","Ranked fifth",5,0.03
+502,503,"They have a personality I like","Finnish","Men","Ranked sixth",6,0.01
+502,503,"They have a sense of humour I like","Finnish","Men","Ranked first",1,0.11
+502,503,"They have a sense of humour I like","Finnish","Men","Ranked second",2,0.31
+502,503,"They have a sense of humour I like","Finnish","Men","Ranked third",3,0.25
+502,503,"They have a sense of humour I like","Finnish","Men","Ranked fourth",4,0.2
+502,503,"They have a sense of humour I like","Finnish","Men","Ranked fifth",5,0.11
+502,503,"They have a sense of humour I like","Finnish","Men","Ranked sixth",6,0.02
+502,503,"They are intelligent","Finnish","Men","Ranked first",1,0.07
+502,503,"They are intelligent","Finnish","Men","Ranked second",2,0.14
+502,503,"They are intelligent","Finnish","Men","Ranked third",3,0.22
+502,503,"They are intelligent","Finnish","Men","Ranked fourth",4,0.27
+502,503,"They are intelligent","Finnish","Men","Ranked fifth",5,0.25
+502,503,"They are intelligent","Finnish","Men","Ranked sixth",6,0.04
+502,503,"They have/make a decent amount of money","Finnish","Men","Ranked first",1,0.01
+502,503,"They have/make a decent amount of money","Finnish","Men","Ranked second",2,0.01
+502,503,"They have/make a decent amount of money","Finnish","Men","Ranked third",3,0.03
+502,503,"They have/make a decent amount of money","Finnish","Men","Ranked fourth",4,0.03
+502,503,"They have/make a decent amount of money","Finnish","Men","Ranked fifth",5,0.12
+502,503,"They have/make a decent amount of money","Finnish","Men","Ranked sixth",6,0.8
+502,503,"They have similar interests to me","Finnish","Men","Ranked first",1,0.1
+502,503,"They have similar interests to me","Finnish","Men","Ranked second",2,0.19
+502,503,"They have similar interests to me","Finnish","Men","Ranked third",3,0.2
+502,503,"They have similar interests to me","Finnish","Men","Ranked fourth",4,0.24
+502,503,"They have similar interests to me","Finnish","Men","Ranked fifth",5,0.2
+502,503,"They have similar interests to me","Finnish","Men","Ranked sixth",6,0.07
+503,502,"They are good looking","Finnish","Women","Ranked first",1,0.05
+503,502,"They are good looking","Finnish","Women","Ranked second",2,0.05
+503,502,"They are good looking","Finnish","Women","Ranked third",3,0.09
+503,502,"They are good looking","Finnish","Women","Ranked fourth",4,0.16
+503,502,"They are good looking","Finnish","Women","Ranked fifth",5,0.4
+503,502,"They are good looking","Finnish","Women","Ranked sixth",6,0.26
+503,502,"They have a personality I like","Finnish","Women","Ranked first",1,0.59
+503,502,"They have a personality I like","Finnish","Women","Ranked second",2,0.24
+503,502,"They have a personality I like","Finnish","Women","Ranked third",3,0.12
+503,502,"They have a personality I like","Finnish","Women","Ranked fourth",4,0.03
+503,502,"They have a personality I like","Finnish","Women","Ranked fifth",5,0.01
+503,502,"They have a personality I like","Finnish","Women","Ranked sixth",6,0.01
+503,502,"They have a sense of humour I like","Finnish","Women","Ranked first",1,0.14
+503,502,"They have a sense of humour I like","Finnish","Women","Ranked second",2,0.32
+503,502,"They have a sense of humour I like","Finnish","Women","Ranked third",3,0.28
+503,502,"They have a sense of humour I like","Finnish","Women","Ranked fourth",4,0.18
+503,502,"They have a sense of humour I like","Finnish","Women","Ranked fifth",5,0.06
+503,502,"They have a sense of humour I like","Finnish","Women","Ranked sixth",6,0.03
+503,502,"They are intelligent","Finnish","Women","Ranked first",1,0.07
+503,502,"They are intelligent","Finnish","Women","Ranked second",2,0.14
+503,502,"They are intelligent","Finnish","Women","Ranked third",3,0.24
+503,502,"They are intelligent","Finnish","Women","Ranked fourth",4,0.34
+503,502,"They are intelligent","Finnish","Women","Ranked fifth",5,0.17
+503,502,"They are intelligent","Finnish","Women","Ranked sixth",6,0.03
+503,502,"They have/make a decent amount of money","Finnish","Women","Ranked first",1,0.01
+503,502,"They have/make a decent amount of money","Finnish","Women","Ranked second",2,0.02
+503,502,"They have/make a decent amount of money","Finnish","Women","Ranked third",3,0.03
+503,502,"They have/make a decent amount of money","Finnish","Women","Ranked fourth",4,0.08
+503,502,"They have/make a decent amount of money","Finnish","Women","Ranked fifth",5,0.24
+503,502,"They have/make a decent amount of money","Finnish","Women","Ranked sixth",6,0.62
+503,502,"They have similar interests to me","Finnish","Women","Ranked first",1,0.15
+503,502,"They have similar interests to me","Finnish","Women","Ranked second",2,0.23
+503,502,"They have similar interests to me","Finnish","Women","Ranked third",3,0.24
+503,502,"They have similar interests to me","Finnish","Women","Ranked fourth",4,0.21
+503,502,"They have similar interests to me","Finnish","Women","Ranked fifth",5,0.11
+503,502,"They have similar interests to me","Finnish","Women","Ranked sixth",6,0.05
+447,485,"They are good looking","French","Men","Ranked first",1,0.24
+447,485,"They are good looking","French","Men","Ranked second",2,0.16
+447,485,"They are good looking","French","Men","Ranked third",3,0.19
+447,485,"They are good looking","French","Men","Ranked fourth",4,0.17
+447,485,"They are good looking","French","Men","Ranked fifth",5,0.2
+447,485,"They are good looking","French","Men","Ranked sixth",6,0.05
+447,485,"They have a personality I like","French","Men","Ranked first",1,0.39
+447,485,"They have a personality I like","French","Men","Ranked second",2,0.27
+447,485,"They have a personality I like","French","Men","Ranked third",3,0.13
+447,485,"They have a personality I like","French","Men","Ranked fourth",4,0.09
+447,485,"They have a personality I like","French","Men","Ranked fifth",5,0.07
+447,485,"They have a personality I like","French","Men","Ranked sixth",6,0.04
+447,485,"They have a sense of humour I like","French","Men","Ranked first",1,0.12
+447,485,"They have a sense of humour I like","French","Men","Ranked second",2,0.17
+447,485,"They have a sense of humour I like","French","Men","Ranked third",3,0.23
+447,485,"They have a sense of humour I like","French","Men","Ranked fourth",4,0.25
+447,485,"They have a sense of humour I like","French","Men","Ranked fifth",5,0.16
+447,485,"They have a sense of humour I like","French","Men","Ranked sixth",6,0.06
+447,485,"They are intelligent","French","Men","Ranked first",1,0.09
+447,485,"They are intelligent","French","Men","Ranked second",2,0.19
+447,485,"They are intelligent","French","Men","Ranked third",3,0.24
+447,485,"They are intelligent","French","Men","Ranked fourth",4,0.22
+447,485,"They are intelligent","French","Men","Ranked fifth",5,0.22
+447,485,"They are intelligent","French","Men","Ranked sixth",6,0.05
+447,485,"They have/make a decent amount of money","French","Men","Ranked first",1,0.01
+447,485,"They have/make a decent amount of money","French","Men","Ranked second",2,0.03
+447,485,"They have/make a decent amount of money","French","Men","Ranked third",3,0.04
+447,485,"They have/make a decent amount of money","French","Men","Ranked fourth",4,0.06
+447,485,"They have/make a decent amount of money","French","Men","Ranked fifth",5,0.09
+447,485,"They have/make a decent amount of money","French","Men","Ranked sixth",6,0.77
+447,485,"They have similar interests to me","French","Men","Ranked first",1,0.16
+447,485,"They have similar interests to me","French","Men","Ranked second",2,0.17
+447,485,"They have similar interests to me","French","Men","Ranked third",3,0.17
+447,485,"They have similar interests to me","French","Men","Ranked fourth",4,0.21
+447,485,"They have similar interests to me","French","Men","Ranked fifth",5,0.26
+447,485,"They have similar interests to me","French","Men","Ranked sixth",6,0.04
+568,530,"They are good looking","French","Women","Ranked first",1,0.11
+568,530,"They are good looking","French","Women","Ranked second",2,0.09
+568,530,"They are good looking","French","Women","Ranked third",3,0.11
+568,530,"They are good looking","French","Women","Ranked fourth",4,0.17
+568,530,"They are good looking","French","Women","Ranked fifth",5,0.35
+568,530,"They are good looking","French","Women","Ranked sixth",6,0.17
+568,530,"They have a personality I like","French","Women","Ranked first",1,0.42
+568,530,"They have a personality I like","French","Women","Ranked second",2,0.26
+568,530,"They have a personality I like","French","Women","Ranked third",3,0.17
+568,530,"They have a personality I like","French","Women","Ranked fourth",4,0.1
+568,530,"They have a personality I like","French","Women","Ranked fifth",5,0.04
+568,530,"They have a personality I like","French","Women","Ranked sixth",6,0.02
+568,530,"They have a sense of humour I like","French","Women","Ranked first",1,0.17
+568,530,"They have a sense of humour I like","French","Women","Ranked second",2,0.22
+568,530,"They have a sense of humour I like","French","Women","Ranked third",3,0.3
+568,530,"They have a sense of humour I like","French","Women","Ranked fourth",4,0.17
+568,530,"They have a sense of humour I like","French","Women","Ranked fifth",5,0.1
+568,530,"They have a sense of humour I like","French","Women","Ranked sixth",6,0.04
+568,530,"They are intelligent","French","Women","Ranked first",1,0.09
+568,530,"They are intelligent","French","Women","Ranked second",2,0.18
+568,530,"They are intelligent","French","Women","Ranked third",3,0.2
+568,530,"They are intelligent","French","Women","Ranked fourth",4,0.32
+568,530,"They are intelligent","French","Women","Ranked fifth",5,0.18
+568,530,"They are intelligent","French","Women","Ranked sixth",6,0.03
+568,530,"They have/make a decent amount of money","French","Women","Ranked first",1,0.01
+568,530,"They have/make a decent amount of money","French","Women","Ranked second",2,0.01
+568,530,"They have/make a decent amount of money","French","Women","Ranked third",3,0.04
+568,530,"They have/make a decent amount of money","French","Women","Ranked fourth",4,0.05
+568,530,"They have/make a decent amount of money","French","Women","Ranked fifth",5,0.19
+568,530,"They have/make a decent amount of money","French","Women","Ranked sixth",6,0.7
+568,530,"They have similar interests to me","French","Women","Ranked first",1,0.19
+568,530,"They have similar interests to me","French","Women","Ranked second",2,0.24
+568,530,"They have similar interests to me","French","Women","Ranked third",3,0.19
+568,530,"They have similar interests to me","French","Women","Ranked fourth",4,0.19
+568,530,"They have similar interests to me","French","Women","Ranked fifth",5,0.14
+568,530,"They have similar interests to me","French","Women","Ranked sixth",6,0.05
+972,992,"They are good looking","German","Men","Ranked first",1,0.17
+972,992,"They are good looking","German","Men","Ranked second",2,0.17
+972,992,"They are good looking","German","Men","Ranked third",3,0.14
+972,992,"They are good looking","German","Men","Ranked fourth",4,0.16
+972,992,"They are good looking","German","Men","Ranked fifth",5,0.26
+972,992,"They are good looking","German","Men","Ranked sixth",6,0.1
+972,992,"They have a personality I like","German","Men","Ranked first",1,0.51
+972,992,"They have a personality I like","German","Men","Ranked second",2,0.19
+972,992,"They have a personality I like","German","Men","Ranked third",3,0.13
+972,992,"They have a personality I like","German","Men","Ranked fourth",4,0.09
+972,992,"They have a personality I like","German","Men","Ranked fifth",5,0.06
+972,992,"They have a personality I like","German","Men","Ranked sixth",6,0.03
+972,992,"They have a sense of humour I like","German","Men","Ranked first",1,0.11
+972,992,"They have a sense of humour I like","German","Men","Ranked second",2,0.25
+972,992,"They have a sense of humour I like","German","Men","Ranked third",3,0.27
+972,992,"They have a sense of humour I like","German","Men","Ranked fourth",4,0.2
+972,992,"They have a sense of humour I like","German","Men","Ranked fifth",5,0.13
+972,992,"They have a sense of humour I like","German","Men","Ranked sixth",6,0.04
+972,992,"They are intelligent","German","Men","Ranked first",1,0.08
+972,992,"They are intelligent","German","Men","Ranked second",2,0.17
+972,992,"They are intelligent","German","Men","Ranked third",3,0.24
+972,992,"They are intelligent","German","Men","Ranked fourth",4,0.26
+972,992,"They are intelligent","German","Men","Ranked fifth",5,0.2
+972,992,"They are intelligent","German","Men","Ranked sixth",6,0.05
+972,992,"They have/make a decent amount of money","German","Men","Ranked first",1,0.02
+972,992,"They have/make a decent amount of money","German","Men","Ranked second",2,0.03
+972,992,"They have/make a decent amount of money","German","Men","Ranked third",3,0.04
+972,992,"They have/make a decent amount of money","German","Men","Ranked fourth",4,0.06
+972,992,"They have/make a decent amount of money","German","Men","Ranked fifth",5,0.15
+972,992,"They have/make a decent amount of money","German","Men","Ranked sixth",6,0.7
+972,992,"They have similar interests to me","German","Men","Ranked first",1,0.12
+972,992,"They have similar interests to me","German","Men","Ranked second",2,0.18
+972,992,"They have similar interests to me","German","Men","Ranked third",3,0.18
+972,992,"They have similar interests to me","German","Men","Ranked fourth",4,0.23
+972,992,"They have similar interests to me","German","Men","Ranked fifth",5,0.21
+972,992,"They have similar interests to me","German","Men","Ranked sixth",6,0.08
+1068,1048,"They are good looking","German","Women","Ranked first",1,0.07
+1068,1048,"They are good looking","German","Women","Ranked second",2,0.07
+1068,1048,"They are good looking","German","Women","Ranked third",3,0.09
+1068,1048,"They are good looking","German","Women","Ranked fourth",4,0.17
+1068,1048,"They are good looking","German","Women","Ranked fifth",5,0.35
+1068,1048,"They are good looking","German","Women","Ranked sixth",6,0.24
+1068,1048,"They have a personality I like","German","Women","Ranked first",1,0.56
+1068,1048,"They have a personality I like","German","Women","Ranked second",2,0.21
+1068,1048,"They have a personality I like","German","Women","Ranked third",3,0.11
+1068,1048,"They have a personality I like","German","Women","Ranked fourth",4,0.07
+1068,1048,"They have a personality I like","German","Women","Ranked fifth",5,0.04
+1068,1048,"They have a personality I like","German","Women","Ranked sixth",6,0.02
+1068,1048,"They have a sense of humour I like","German","Women","Ranked first",1,0.17
+1068,1048,"They have a sense of humour I like","German","Women","Ranked second",2,0.32
+1068,1048,"They have a sense of humour I like","German","Women","Ranked third",3,0.26
+1068,1048,"They have a sense of humour I like","German","Women","Ranked fourth",4,0.13
+1068,1048,"They have a sense of humour I like","German","Women","Ranked fifth",5,0.08
+1068,1048,"They have a sense of humour I like","German","Women","Ranked sixth",6,0.05
+1068,1048,"They are intelligent","German","Women","Ranked first",1,0.07
+1068,1048,"They are intelligent","German","Women","Ranked second",2,0.19
+1068,1048,"They are intelligent","German","Women","Ranked third",3,0.23
+1068,1048,"They are intelligent","German","Women","Ranked fourth",4,0.31
+1068,1048,"They are intelligent","German","Women","Ranked fifth",5,0.14
+1068,1048,"They are intelligent","German","Women","Ranked sixth",6,0.05
+1068,1048,"They have/make a decent amount of money","German","Women","Ranked first",1,0.01
+1068,1048,"They have/make a decent amount of money","German","Women","Ranked second",2,0.03
+1068,1048,"They have/make a decent amount of money","German","Women","Ranked third",3,0.07
+1068,1048,"They have/make a decent amount of money","German","Women","Ranked fourth",4,0.1
+1068,1048,"They have/make a decent amount of money","German","Women","Ranked fifth",5,0.25
+1068,1048,"They have/make a decent amount of money","German","Women","Ranked sixth",6,0.55
+1068,1048,"They have similar interests to me","German","Women","Ranked first",1,0.13
+1068,1048,"They have similar interests to me","German","Women","Ranked second",2,0.19
+1068,1048,"They have similar interests to me","German","Women","Ranked third",3,0.24
+1068,1048,"They have similar interests to me","German","Women","Ranked fourth",4,0.22
+1068,1048,"They have similar interests to me","German","Women","Ranked fifth",5,0.14
+1068,1048,"They have similar interests to me","German","Women","Ranked sixth",6,0.09
+489,538,"They are good looking","Hong Kong","Men","Ranked first",1,0.33
+489,538,"They are good looking","Hong Kong","Men","Ranked second",2,0.21
+489,538,"They are good looking","Hong Kong","Men","Ranked third",3,0.17
+489,538,"They are good looking","Hong Kong","Men","Ranked fourth",4,0.14
+489,538,"They are good looking","Hong Kong","Men","Ranked fifth",5,0.08
+489,538,"They are good looking","Hong Kong","Men","Ranked sixth",6,0.07
+489,538,"They have a personality I like","Hong Kong","Men","Ranked first",1,0.45
+489,538,"They have a personality I like","Hong Kong","Men","Ranked second",2,0.26
+489,538,"They have a personality I like","Hong Kong","Men","Ranked third",3,0.12
+489,538,"They have a personality I like","Hong Kong","Men","Ranked fourth",4,0.07
+489,538,"They have a personality I like","Hong Kong","Men","Ranked fifth",5,0.06
+489,538,"They have a personality I like","Hong Kong","Men","Ranked sixth",6,0.04
+489,538,"They have a sense of humour I like","Hong Kong","Men","Ranked first",1,0.06
+489,538,"They have a sense of humour I like","Hong Kong","Men","Ranked second",2,0.14
+489,538,"They have a sense of humour I like","Hong Kong","Men","Ranked third",3,0.21
+489,538,"They have a sense of humour I like","Hong Kong","Men","Ranked fourth",4,0.23
+489,538,"They have a sense of humour I like","Hong Kong","Men","Ranked fifth",5,0.25
+489,538,"They have a sense of humour I like","Hong Kong","Men","Ranked sixth",6,0.11
+489,538,"They are intelligent","Hong Kong","Men","Ranked first",1,0.06
+489,538,"They are intelligent","Hong Kong","Men","Ranked second",2,0.13
+489,538,"They are intelligent","Hong Kong","Men","Ranked third",3,0.2
+489,538,"They are intelligent","Hong Kong","Men","Ranked fourth",4,0.26
+489,538,"They are intelligent","Hong Kong","Men","Ranked fifth",5,0.24
+489,538,"They are intelligent","Hong Kong","Men","Ranked sixth",6,0.12
+489,538,"They have/make a decent amount of money","Hong Kong","Men","Ranked first",1,0.03
+489,538,"They have/make a decent amount of money","Hong Kong","Men","Ranked second",2,0.05
+489,538,"They have/make a decent amount of money","Hong Kong","Men","Ranked third",3,0.08
+489,538,"They have/make a decent amount of money","Hong Kong","Men","Ranked fourth",4,0.1
+489,538,"They have/make a decent amount of money","Hong Kong","Men","Ranked fifth",5,0.18
+489,538,"They have/make a decent amount of money","Hong Kong","Men","Ranked sixth",6,0.56
+489,538,"They have similar interests to me","Hong Kong","Men","Ranked first",1,0.07
+489,538,"They have similar interests to me","Hong Kong","Men","Ranked second",2,0.22
+489,538,"They have similar interests to me","Hong Kong","Men","Ranked third",3,0.22
+489,538,"They have similar interests to me","Hong Kong","Men","Ranked fourth",4,0.2
+489,538,"They have similar interests to me","Hong Kong","Men","Ranked fifth",5,0.19
+489,538,"They have similar interests to me","Hong Kong","Men","Ranked sixth",6,0.11
+631,582,"They are good looking","Hong Kong","Women","Ranked first",1,0.19
+631,582,"They are good looking","Hong Kong","Women","Ranked second",2,0.11
+631,582,"They are good looking","Hong Kong","Women","Ranked third",3,0.17
+631,582,"They are good looking","Hong Kong","Women","Ranked fourth",4,0.17
+631,582,"They are good looking","Hong Kong","Women","Ranked fifth",5,0.21
+631,582,"They are good looking","Hong Kong","Women","Ranked sixth",6,0.17
+631,582,"They have a personality I like","Hong Kong","Women","Ranked first",1,0.53
+631,582,"They have a personality I like","Hong Kong","Women","Ranked second",2,0.23
+631,582,"They have a personality I like","Hong Kong","Women","Ranked third",3,0.1
+631,582,"They have a personality I like","Hong Kong","Women","Ranked fourth",4,0.06
+631,582,"They have a personality I like","Hong Kong","Women","Ranked fifth",5,0.04
+631,582,"They have a personality I like","Hong Kong","Women","Ranked sixth",6,0.04
+631,582,"They have a sense of humour I like","Hong Kong","Women","Ranked first",1,0.09
+631,582,"They have a sense of humour I like","Hong Kong","Women","Ranked second",2,0.22
+631,582,"They have a sense of humour I like","Hong Kong","Women","Ranked third",3,0.25
+631,582,"They have a sense of humour I like","Hong Kong","Women","Ranked fourth",4,0.19
+631,582,"They have a sense of humour I like","Hong Kong","Women","Ranked fifth",5,0.16
+631,582,"They have a sense of humour I like","Hong Kong","Women","Ranked sixth",6,0.09
+631,582,"They are intelligent","Hong Kong","Women","Ranked first",1,0.08
+631,582,"They are intelligent","Hong Kong","Women","Ranked second",2,0.14
+631,582,"They are intelligent","Hong Kong","Women","Ranked third",3,0.19
+631,582,"They are intelligent","Hong Kong","Women","Ranked fourth",4,0.27
+631,582,"They are intelligent","Hong Kong","Women","Ranked fifth",5,0.19
+631,582,"They are intelligent","Hong Kong","Women","Ranked sixth",6,0.12
+631,582,"They have/make a decent amount of money","Hong Kong","Women","Ranked first",1,0.03
+631,582,"They have/make a decent amount of money","Hong Kong","Women","Ranked second",2,0.05
+631,582,"They have/make a decent amount of money","Hong Kong","Women","Ranked third",3,0.09
+631,582,"They have/make a decent amount of money","Hong Kong","Women","Ranked fourth",4,0.15
+631,582,"They have/make a decent amount of money","Hong Kong","Women","Ranked fifth",5,0.26
+631,582,"They have/make a decent amount of money","Hong Kong","Women","Ranked sixth",6,0.42
+631,582,"They have similar interests to me","Hong Kong","Women","Ranked first",1,0.09
+631,582,"They have similar interests to me","Hong Kong","Women","Ranked second",2,0.25
+631,582,"They have similar interests to me","Hong Kong","Women","Ranked third",3,0.2
+631,582,"They have similar interests to me","Hong Kong","Women","Ranked fourth",4,0.16
+631,582,"They have similar interests to me","Hong Kong","Women","Ranked fifth",5,0.14
+631,582,"They have similar interests to me","Hong Kong","Women","Ranked sixth",6,0.16
+519,518,"They are good looking","Indian","Men","Ranked first",1,0.17
+519,518,"They are good looking","Indian","Men","Ranked second",2,0.16
+519,518,"They are good looking","Indian","Men","Ranked third",3,0.17
+519,518,"They are good looking","Indian","Men","Ranked fourth",4,0.15
+519,518,"They are good looking","Indian","Men","Ranked fifth",5,0.25
+519,518,"They are good looking","Indian","Men","Ranked sixth",6,0.1
+519,518,"They have a personality I like","Indian","Men","Ranked first",1,0.22
+519,518,"They have a personality I like","Indian","Men","Ranked second",2,0.19
+519,518,"They have a personality I like","Indian","Men","Ranked third",3,0.21
+519,518,"They have a personality I like","Indian","Men","Ranked fourth",4,0.18
+519,518,"They have a personality I like","Indian","Men","Ranked fifth",5,0.13
+519,518,"They have a personality I like","Indian","Men","Ranked sixth",6,0.08
+519,518,"They have a sense of humour I like","Indian","Men","Ranked first",1,0.19
+519,518,"They have a sense of humour I like","Indian","Men","Ranked second",2,0.19
+519,518,"They have a sense of humour I like","Indian","Men","Ranked third",3,0.2
+519,518,"They have a sense of humour I like","Indian","Men","Ranked fourth",4,0.16
+519,518,"They have a sense of humour I like","Indian","Men","Ranked fifth",5,0.18
+519,518,"They have a sense of humour I like","Indian","Men","Ranked sixth",6,0.07
+519,518,"They are intelligent","Indian","Men","Ranked first",1,0.15
+519,518,"They are intelligent","Indian","Men","Ranked second",2,0.22
+519,518,"They are intelligent","Indian","Men","Ranked third",3,0.2
+519,518,"They are intelligent","Indian","Men","Ranked fourth",4,0.22
+519,518,"They are intelligent","Indian","Men","Ranked fifth",5,0.13
+519,518,"They are intelligent","Indian","Men","Ranked sixth",6,0.07
+519,518,"They have/make a decent amount of money","Indian","Men","Ranked first",1,0.03
+519,518,"They have/make a decent amount of money","Indian","Men","Ranked second",2,0.03
+519,518,"They have/make a decent amount of money","Indian","Men","Ranked third",3,0.07
+519,518,"They have/make a decent amount of money","Indian","Men","Ranked fourth",4,0.09
+519,518,"They have/make a decent amount of money","Indian","Men","Ranked fifth",5,0.16
+519,518,"They have/make a decent amount of money","Indian","Men","Ranked sixth",6,0.62
+519,518,"They have similar interests to me","Indian","Men","Ranked first",1,0.23
+519,518,"They have similar interests to me","Indian","Men","Ranked second",2,0.2
+519,518,"They have similar interests to me","Indian","Men","Ranked third",3,0.16
+519,518,"They have similar interests to me","Indian","Men","Ranked fourth",4,0.2
+519,518,"They have similar interests to me","Indian","Men","Ranked fifth",5,0.15
+519,518,"They have similar interests to me","Indian","Men","Ranked sixth",6,0.06
+496,497,"They are good looking","Indian","Women","Ranked first",1,0.06
+496,497,"They are good looking","Indian","Women","Ranked second",2,0.11
+496,497,"They are good looking","Indian","Women","Ranked third",3,0.12
+496,497,"They are good looking","Indian","Women","Ranked fourth",4,0.16
+496,497,"They are good looking","Indian","Women","Ranked fifth",5,0.27
+496,497,"They are good looking","Indian","Women","Ranked sixth",6,0.28
+496,497,"They have a personality I like","Indian","Women","Ranked first",1,0.28
+496,497,"They have a personality I like","Indian","Women","Ranked second",2,0.18
+496,497,"They have a personality I like","Indian","Women","Ranked third",3,0.18
+496,497,"They have a personality I like","Indian","Women","Ranked fourth",4,0.17
+496,497,"They have a personality I like","Indian","Women","Ranked fifth",5,0.12
+496,497,"They have a personality I like","Indian","Women","Ranked sixth",6,0.06
+496,497,"They have a sense of humour I like","Indian","Women","Ranked first",1,0.19
+496,497,"They have a sense of humour I like","Indian","Women","Ranked second",2,0.22
+496,497,"They have a sense of humour I like","Indian","Women","Ranked third",3,0.2
+496,497,"They have a sense of humour I like","Indian","Women","Ranked fourth",4,0.16
+496,497,"They have a sense of humour I like","Indian","Women","Ranked fifth",5,0.14
+496,497,"They have a sense of humour I like","Indian","Women","Ranked sixth",6,0.1
+496,497,"They are intelligent","Indian","Women","Ranked first",1,0.22
+496,497,"They are intelligent","Indian","Women","Ranked second",2,0.23
+496,497,"They are intelligent","Indian","Women","Ranked third",3,0.23
+496,497,"They are intelligent","Indian","Women","Ranked fourth",4,0.17
+496,497,"They are intelligent","Indian","Women","Ranked fifth",5,0.1
+496,497,"They are intelligent","Indian","Women","Ranked sixth",6,0.04
+496,497,"They have/make a decent amount of money","Indian","Women","Ranked first",1,0.04
+496,497,"They have/make a decent amount of money","Indian","Women","Ranked second",2,0.09
+496,497,"They have/make a decent amount of money","Indian","Women","Ranked third",3,0.09
+496,497,"They have/make a decent amount of money","Indian","Women","Ranked fourth",4,0.16
+496,497,"They have/make a decent amount of money","Indian","Women","Ranked fifth",5,0.23
+496,497,"They have/make a decent amount of money","Indian","Women","Ranked sixth",6,0.39
+496,497,"They have similar interests to me","Indian","Women","Ranked first",1,0.2
+496,497,"They have similar interests to me","Indian","Women","Ranked second",2,0.18
+496,497,"They have similar interests to me","Indian","Women","Ranked third",3,0.18
+496,497,"They have similar interests to me","Indian","Women","Ranked fourth",4,0.17
+496,497,"They have similar interests to me","Indian","Women","Ranked fifth",5,0.14
+496,497,"They have similar interests to me","Indian","Women","Ranked sixth",6,0.13
+616,539,"They are good looking","Indonesian","Men","Ranked first",1,0.35
+616,539,"They are good looking","Indonesian","Men","Ranked second",2,0.19
+616,539,"They are good looking","Indonesian","Men","Ranked third",3,0.2
+616,539,"They are good looking","Indonesian","Men","Ranked fourth",4,0.11
+616,539,"They are good looking","Indonesian","Men","Ranked fifth",5,0.11
+616,539,"They are good looking","Indonesian","Men","Ranked sixth",6,0.05
+616,539,"They have a personality I like","Indonesian","Men","Ranked first",1,0.35
+616,539,"They have a personality I like","Indonesian","Men","Ranked second",2,0.26
+616,539,"They have a personality I like","Indonesian","Men","Ranked third",3,0.15
+616,539,"They have a personality I like","Indonesian","Men","Ranked fourth",4,0.12
+616,539,"They have a personality I like","Indonesian","Men","Ranked fifth",5,0.08
+616,539,"They have a personality I like","Indonesian","Men","Ranked sixth",6,0.04
+616,539,"They have a sense of humour I like","Indonesian","Men","Ranked first",1,0.08
+616,539,"They have a sense of humour I like","Indonesian","Men","Ranked second",2,0.16
+616,539,"They have a sense of humour I like","Indonesian","Men","Ranked third",3,0.18
+616,539,"They have a sense of humour I like","Indonesian","Men","Ranked fourth",4,0.32
+616,539,"They have a sense of humour I like","Indonesian","Men","Ranked fifth",5,0.19
+616,539,"They have a sense of humour I like","Indonesian","Men","Ranked sixth",6,0.07
+616,539,"They are intelligent","Indonesian","Men","Ranked first",1,0.15
+616,539,"They are intelligent","Indonesian","Men","Ranked second",2,0.26
+616,539,"They are intelligent","Indonesian","Men","Ranked third",3,0.26
+616,539,"They are intelligent","Indonesian","Men","Ranked fourth",4,0.2
+616,539,"They are intelligent","Indonesian","Men","Ranked fifth",5,0.09
+616,539,"They are intelligent","Indonesian","Men","Ranked sixth",6,0.03
+616,539,"They have/make a decent amount of money","Indonesian","Men","Ranked first",1,0.03
+616,539,"They have/make a decent amount of money","Indonesian","Men","Ranked second",2,0.03
+616,539,"They have/make a decent amount of money","Indonesian","Men","Ranked third",3,0.06
+616,539,"They have/make a decent amount of money","Indonesian","Men","Ranked fourth",4,0.09
+616,539,"They have/make a decent amount of money","Indonesian","Men","Ranked fifth",5,0.16
+616,539,"They have/make a decent amount of money","Indonesian","Men","Ranked sixth",6,0.64
+616,539,"They have similar interests to me","Indonesian","Men","Ranked first",1,0.05
+616,539,"They have similar interests to me","Indonesian","Men","Ranked second",2,0.1
+616,539,"They have similar interests to me","Indonesian","Men","Ranked third",3,0.15
+616,539,"They have similar interests to me","Indonesian","Men","Ranked fourth",4,0.17
+616,539,"They have similar interests to me","Indonesian","Men","Ranked fifth",5,0.36
+616,539,"They have similar interests to me","Indonesian","Men","Ranked sixth",6,0.17
+429,506,"They are good looking","Indonesian","Women","Ranked first",1,0.18
+429,506,"They are good looking","Indonesian","Women","Ranked second",2,0.12
+429,506,"They are good looking","Indonesian","Women","Ranked third",3,0.14
+429,506,"They are good looking","Indonesian","Women","Ranked fourth",4,0.18
+429,506,"They are good looking","Indonesian","Women","Ranked fifth",5,0.22
+429,506,"They are good looking","Indonesian","Women","Ranked sixth",6,0.17
+429,506,"They have a personality I like","Indonesian","Women","Ranked first",1,0.46
+429,506,"They have a personality I like","Indonesian","Women","Ranked second",2,0.2
+429,506,"They have a personality I like","Indonesian","Women","Ranked third",3,0.12
+429,506,"They have a personality I like","Indonesian","Women","Ranked fourth",4,0.1
+429,506,"They have a personality I like","Indonesian","Women","Ranked fifth",5,0.08
+429,506,"They have a personality I like","Indonesian","Women","Ranked sixth",6,0.04
+429,506,"They have a sense of humour I like","Indonesian","Women","Ranked first",1,0.09
+429,506,"They have a sense of humour I like","Indonesian","Women","Ranked second",2,0.22
+429,506,"They have a sense of humour I like","Indonesian","Women","Ranked third",3,0.2
+429,506,"They have a sense of humour I like","Indonesian","Women","Ranked fourth",4,0.17
+429,506,"They have a sense of humour I like","Indonesian","Women","Ranked fifth",5,0.19
+429,506,"They have a sense of humour I like","Indonesian","Women","Ranked sixth",6,0.14
+429,506,"They are intelligent","Indonesian","Women","Ranked first",1,0.18
+429,506,"They are intelligent","Indonesian","Women","Ranked second",2,0.26
+429,506,"They are intelligent","Indonesian","Women","Ranked third",3,0.27
+429,506,"They are intelligent","Indonesian","Women","Ranked fourth",4,0.16
+429,506,"They are intelligent","Indonesian","Women","Ranked fifth",5,0.08
+429,506,"They are intelligent","Indonesian","Women","Ranked sixth",6,0.05
+429,506,"They have/make a decent amount of money","Indonesian","Women","Ranked first",1,0.05
+429,506,"They have/make a decent amount of money","Indonesian","Women","Ranked second",2,0.1
+429,506,"They have/make a decent amount of money","Indonesian","Women","Ranked third",3,0.14
+429,506,"They have/make a decent amount of money","Indonesian","Women","Ranked fourth",4,0.19
+429,506,"They have/make a decent amount of money","Indonesian","Women","Ranked fifth",5,0.23
+429,506,"They have/make a decent amount of money","Indonesian","Women","Ranked sixth",6,0.28
+429,506,"They have similar interests to me","Indonesian","Women","Ranked first",1,0.03
+429,506,"They have similar interests to me","Indonesian","Women","Ranked second",2,0.11
+429,506,"They have similar interests to me","Indonesian","Women","Ranked third",3,0.12
+429,506,"They have similar interests to me","Indonesian","Women","Ranked fourth",4,0.2
+429,506,"They have similar interests to me","Indonesian","Women","Ranked fifth",5,0.22
+429,506,"They have similar interests to me","Indonesian","Women","Ranked sixth",6,0.32
+505,707,"They are good looking","Malaysian","Men","Ranked first",1,0.24
+505,707,"They are good looking","Malaysian","Men","Ranked second",2,0.15
+505,707,"They are good looking","Malaysian","Men","Ranked third",3,0.15
+505,707,"They are good looking","Malaysian","Men","Ranked fourth",4,0.16
+505,707,"They are good looking","Malaysian","Men","Ranked fifth",5,0.18
+505,707,"They are good looking","Malaysian","Men","Ranked sixth",6,0.13
+505,707,"They have a personality I like","Malaysian","Men","Ranked first",1,0.42
+505,707,"They have a personality I like","Malaysian","Men","Ranked second",2,0.23
+505,707,"They have a personality I like","Malaysian","Men","Ranked third",3,0.14
+505,707,"They have a personality I like","Malaysian","Men","Ranked fourth",4,0.1
+505,707,"They have a personality I like","Malaysian","Men","Ranked fifth",5,0.06
+505,707,"They have a personality I like","Malaysian","Men","Ranked sixth",6,0.05
+505,707,"They have a sense of humour I like","Malaysian","Men","Ranked first",1,0.08
+505,707,"They have a sense of humour I like","Malaysian","Men","Ranked second",2,0.21
+505,707,"They have a sense of humour I like","Malaysian","Men","Ranked third",3,0.21
+505,707,"They have a sense of humour I like","Malaysian","Men","Ranked fourth",4,0.2
+505,707,"They have a sense of humour I like","Malaysian","Men","Ranked fifth",5,0.18
+505,707,"They have a sense of humour I like","Malaysian","Men","Ranked sixth",6,0.12
+505,707,"They are intelligent","Malaysian","Men","Ranked first",1,0.11
+505,707,"They are intelligent","Malaysian","Men","Ranked second",2,0.16
+505,707,"They are intelligent","Malaysian","Men","Ranked third",3,0.26
+505,707,"They are intelligent","Malaysian","Men","Ranked fourth",4,0.24
+505,707,"They are intelligent","Malaysian","Men","Ranked fifth",5,0.18
+505,707,"They are intelligent","Malaysian","Men","Ranked sixth",6,0.05
+505,707,"They have/make a decent amount of money","Malaysian","Men","Ranked first",1,0.03
+505,707,"They have/make a decent amount of money","Malaysian","Men","Ranked second",2,0.07
+505,707,"They have/make a decent amount of money","Malaysian","Men","Ranked third",3,0.09
+505,707,"They have/make a decent amount of money","Malaysian","Men","Ranked fourth",4,0.12
+505,707,"They have/make a decent amount of money","Malaysian","Men","Ranked fifth",5,0.16
+505,707,"They have/make a decent amount of money","Malaysian","Men","Ranked sixth",6,0.52
+505,707,"They have similar interests to me","Malaysian","Men","Ranked first",1,0.11
+505,707,"They have similar interests to me","Malaysian","Men","Ranked second",2,0.18
+505,707,"They have similar interests to me","Malaysian","Men","Ranked third",3,0.15
+505,707,"They have similar interests to me","Malaysian","Men","Ranked fourth",4,0.18
+505,707,"They have similar interests to me","Malaysian","Men","Ranked fifth",5,0.24
+505,707,"They have similar interests to me","Malaysian","Men","Ranked sixth",6,0.13
+806,604,"They are good looking","Malaysian","Women","Ranked first",1,0.09
+806,604,"They are good looking","Malaysian","Women","Ranked second",2,0.08
+806,604,"They are good looking","Malaysian","Women","Ranked third",3,0.11
+806,604,"They are good looking","Malaysian","Women","Ranked fourth",4,0.14
+806,604,"They are good looking","Malaysian","Women","Ranked fifth",5,0.2
+806,604,"They are good looking","Malaysian","Women","Ranked sixth",6,0.38
+806,604,"They have a personality I like","Malaysian","Women","Ranked first",1,0.47
+806,604,"They have a personality I like","Malaysian","Women","Ranked second",2,0.23
+806,604,"They have a personality I like","Malaysian","Women","Ranked third",3,0.13
+806,604,"They have a personality I like","Malaysian","Women","Ranked fourth",4,0.09
+806,604,"They have a personality I like","Malaysian","Women","Ranked fifth",5,0.05
+806,604,"They have a personality I like","Malaysian","Women","Ranked sixth",6,0.03
+806,604,"They have a sense of humour I like","Malaysian","Women","Ranked first",1,0.14
+806,604,"They have a sense of humour I like","Malaysian","Women","Ranked second",2,0.21
+806,604,"They have a sense of humour I like","Malaysian","Women","Ranked third",3,0.21
+806,604,"They have a sense of humour I like","Malaysian","Women","Ranked fourth",4,0.2
+806,604,"They have a sense of humour I like","Malaysian","Women","Ranked fifth",5,0.12
+806,604,"They have a sense of humour I like","Malaysian","Women","Ranked sixth",6,0.11
+806,604,"They are intelligent","Malaysian","Women","Ranked first",1,0.13
+806,604,"They are intelligent","Malaysian","Women","Ranked second",2,0.2
+806,604,"They are intelligent","Malaysian","Women","Ranked third",3,0.22
+806,604,"They are intelligent","Malaysian","Women","Ranked fourth",4,0.22
+806,604,"They are intelligent","Malaysian","Women","Ranked fifth",5,0.17
+806,604,"They are intelligent","Malaysian","Women","Ranked sixth",6,0.06
+806,604,"They have/make a decent amount of money","Malaysian","Women","Ranked first",1,0.09
+806,604,"They have/make a decent amount of money","Malaysian","Women","Ranked second",2,0.13
+806,604,"They have/make a decent amount of money","Malaysian","Women","Ranked third",3,0.14
+806,604,"They have/make a decent amount of money","Malaysian","Women","Ranked fourth",4,0.18
+806,604,"They have/make a decent amount of money","Malaysian","Women","Ranked fifth",5,0.25
+806,604,"They have/make a decent amount of money","Malaysian","Women","Ranked sixth",6,0.21
+806,604,"They have similar interests to me","Malaysian","Women","Ranked first",1,0.08
+806,604,"They have similar interests to me","Malaysian","Women","Ranked second",2,0.15
+806,604,"They have similar interests to me","Malaysian","Women","Ranked third",3,0.19
+806,604,"They have similar interests to me","Malaysian","Women","Ranked fourth",4,0.17
+806,604,"They have similar interests to me","Malaysian","Women","Ranked fifth",5,0.2
+806,604,"They have similar interests to me","Malaysian","Women","Ranked sixth",6,0.22
+325,322,"They are good looking","Norwegian","Men","Ranked first",1,0.14
+325,322,"They are good looking","Norwegian","Men","Ranked second",2,0.16
+325,322,"They are good looking","Norwegian","Men","Ranked third",3,0.21
+325,322,"They are good looking","Norwegian","Men","Ranked fourth",4,0.19
+325,322,"They are good looking","Norwegian","Men","Ranked fifth",5,0.24
+325,322,"They are good looking","Norwegian","Men","Ranked sixth",6,0.05
+325,322,"They have a personality I like","Norwegian","Men","Ranked first",1,0.65
+325,322,"They have a personality I like","Norwegian","Men","Ranked second",2,0.17
+325,322,"They have a personality I like","Norwegian","Men","Ranked third",3,0.06
+325,322,"They have a personality I like","Norwegian","Men","Ranked fourth",4,0.06
+325,322,"They have a personality I like","Norwegian","Men","Ranked fifth",5,0.02
+325,322,"They have a personality I like","Norwegian","Men","Ranked sixth",6,0.03
+325,322,"They have a sense of humour I like","Norwegian","Men","Ranked first",1,0.05
+325,322,"They have a sense of humour I like","Norwegian","Men","Ranked second",2,0.28
+325,322,"They have a sense of humour I like","Norwegian","Men","Ranked third",3,0.3
+325,322,"They have a sense of humour I like","Norwegian","Men","Ranked fourth",4,0.18
+325,322,"They have a sense of humour I like","Norwegian","Men","Ranked fifth",5,0.17
+325,322,"They have a sense of humour I like","Norwegian","Men","Ranked sixth",6,0.01
+325,322,"They are intelligent","Norwegian","Men","Ranked first",1,0.06
+325,322,"They are intelligent","Norwegian","Men","Ranked second",2,0.15
+325,322,"They are intelligent","Norwegian","Men","Ranked third",3,0.23
+325,322,"They are intelligent","Norwegian","Men","Ranked fourth",4,0.27
+325,322,"They are intelligent","Norwegian","Men","Ranked fifth",5,0.24
+325,322,"They are intelligent","Norwegian","Men","Ranked sixth",6,0.04
+325,322,"They have/make a decent amount of money","Norwegian","Men","Ranked first",1,0.01
+325,322,"They have/make a decent amount of money","Norwegian","Men","Ranked second",2,0.01
+325,322,"They have/make a decent amount of money","Norwegian","Men","Ranked third",3,0.03
+325,322,"They have/make a decent amount of money","Norwegian","Men","Ranked fourth",4,0.05
+325,322,"They have/make a decent amount of money","Norwegian","Men","Ranked fifth",5,0.11
+325,322,"They have/make a decent amount of money","Norwegian","Men","Ranked sixth",6,0.79
+325,322,"They have similar interests to me","Norwegian","Men","Ranked first",1,0.08
+325,322,"They have similar interests to me","Norwegian","Men","Ranked second",2,0.22
+325,322,"They have similar interests to me","Norwegian","Men","Ranked third",3,0.17
+325,322,"They have similar interests to me","Norwegian","Men","Ranked fourth",4,0.24
+325,322,"They have similar interests to me","Norwegian","Men","Ranked fifth",5,0.21
+325,322,"They have similar interests to me","Norwegian","Men","Ranked sixth",6,0.07
+308,311,"They are good looking","Norwegian","Women","Ranked first",1,0.05
+308,311,"They are good looking","Norwegian","Women","Ranked second",2,0.09
+308,311,"They are good looking","Norwegian","Women","Ranked third",3,0.1
+308,311,"They are good looking","Norwegian","Women","Ranked fourth",4,0.22
+308,311,"They are good looking","Norwegian","Women","Ranked fifth",5,0.37
+308,311,"They are good looking","Norwegian","Women","Ranked sixth",6,0.17
+308,311,"They have a personality I like","Norwegian","Women","Ranked first",1,0.66
+308,311,"They have a personality I like","Norwegian","Women","Ranked second",2,0.2
+308,311,"They have a personality I like","Norwegian","Women","Ranked third",3,0.07
+308,311,"They have a personality I like","Norwegian","Women","Ranked fourth",4,0.05
+308,311,"They have a personality I like","Norwegian","Women","Ranked fifth",5,0.01
+308,311,"They have a personality I like","Norwegian","Women","Ranked sixth",6,0.01
+308,311,"They have a sense of humour I like","Norwegian","Women","Ranked first",1,0.14
+308,311,"They have a sense of humour I like","Norwegian","Women","Ranked second",2,0.34
+308,311,"They have a sense of humour I like","Norwegian","Women","Ranked third",3,0.29
+308,311,"They have a sense of humour I like","Norwegian","Women","Ranked fourth",4,0.12
+308,311,"They have a sense of humour I like","Norwegian","Women","Ranked fifth",5,0.08
+308,311,"They have a sense of humour I like","Norwegian","Women","Ranked sixth",6,0.03
+308,311,"They are intelligent","Norwegian","Women","Ranked first",1,0.05
+308,311,"They are intelligent","Norwegian","Women","Ranked second",2,0.16
+308,311,"They are intelligent","Norwegian","Women","Ranked third",3,0.25
+308,311,"They are intelligent","Norwegian","Women","Ranked fourth",4,0.34
+308,311,"They are intelligent","Norwegian","Women","Ranked fifth",5,0.17
+308,311,"They are intelligent","Norwegian","Women","Ranked sixth",6,0.03
+308,311,"They have/make a decent amount of money","Norwegian","Women","Ranked first",1,0.01
+308,311,"They have/make a decent amount of money","Norwegian","Women","Ranked second",2,0.01
+308,311,"They have/make a decent amount of money","Norwegian","Women","Ranked third",3,0.04
+308,311,"They have/make a decent amount of money","Norwegian","Women","Ranked fourth",4,0.05
+308,311,"They have/make a decent amount of money","Norwegian","Women","Ranked fifth",5,0.2
+308,311,"They have/make a decent amount of money","Norwegian","Women","Ranked sixth",6,0.69
+308,311,"They have similar interests to me","Norwegian","Women","Ranked first",1,0.1
+308,311,"They have similar interests to me","Norwegian","Women","Ranked second",2,0.21
+308,311,"They have similar interests to me","Norwegian","Women","Ranked third",3,0.25
+308,311,"They have similar interests to me","Norwegian","Women","Ranked fourth",4,0.21
+308,311,"They have similar interests to me","Norwegian","Women","Ranked fifth",5,0.16
+308,311,"They have similar interests to me","Norwegian","Women","Ranked sixth",6,0.07
+496,506,"They are good looking","Singaporean","Men","Ranked first",1,0.2
+496,506,"They are good looking","Singaporean","Men","Ranked second",2,0.18
+496,506,"They are good looking","Singaporean","Men","Ranked third",3,0.16
+496,506,"They are good looking","Singaporean","Men","Ranked fourth",4,0.17
+496,506,"They are good looking","Singaporean","Men","Ranked fifth",5,0.2
+496,506,"They are good looking","Singaporean","Men","Ranked sixth",6,0.08
+496,506,"They have a personality I like","Singaporean","Men","Ranked first",1,0.49
+496,506,"They have a personality I like","Singaporean","Men","Ranked second",2,0.23
+496,506,"They have a personality I like","Singaporean","Men","Ranked third",3,0.14
+496,506,"They have a personality I like","Singaporean","Men","Ranked fourth",4,0.07
+496,506,"They have a personality I like","Singaporean","Men","Ranked fifth",5,0.04
+496,506,"They have a personality I like","Singaporean","Men","Ranked sixth",6,0.03
+496,506,"They have a sense of humour I like","Singaporean","Men","Ranked first",1,0.08
+496,506,"They have a sense of humour I like","Singaporean","Men","Ranked second",2,0.19
+496,506,"They have a sense of humour I like","Singaporean","Men","Ranked third",3,0.24
+496,506,"They have a sense of humour I like","Singaporean","Men","Ranked fourth",4,0.23
+496,506,"They have a sense of humour I like","Singaporean","Men","Ranked fifth",5,0.17
+496,506,"They have a sense of humour I like","Singaporean","Men","Ranked sixth",6,0.09
+496,506,"They are intelligent","Singaporean","Men","Ranked first",1,0.09
+496,506,"They are intelligent","Singaporean","Men","Ranked second",2,0.13
+496,506,"They are intelligent","Singaporean","Men","Ranked third",3,0.24
+496,506,"They are intelligent","Singaporean","Men","Ranked fourth",4,0.24
+496,506,"They are intelligent","Singaporean","Men","Ranked fifth",5,0.24
+496,506,"They are intelligent","Singaporean","Men","Ranked sixth",6,0.06
+496,506,"They have/make a decent amount of money","Singaporean","Men","Ranked first",1,0.02
+496,506,"They have/make a decent amount of money","Singaporean","Men","Ranked second",2,0.04
+496,506,"They have/make a decent amount of money","Singaporean","Men","Ranked third",3,0.07
+496,506,"They have/make a decent amount of money","Singaporean","Men","Ranked fourth",4,0.09
+496,506,"They have/make a decent amount of money","Singaporean","Men","Ranked fifth",5,0.17
+496,506,"They have/make a decent amount of money","Singaporean","Men","Ranked sixth",6,0.61
+496,506,"They have similar interests to me","Singaporean","Men","Ranked first",1,0.11
+496,506,"They have similar interests to me","Singaporean","Men","Ranked second",2,0.23
+496,506,"They have similar interests to me","Singaporean","Men","Ranked third",3,0.14
+496,506,"They have similar interests to me","Singaporean","Men","Ranked fourth",4,0.21
+496,506,"They have similar interests to me","Singaporean","Men","Ranked fifth",5,0.19
+496,506,"They have similar interests to me","Singaporean","Men","Ranked sixth",6,0.12
+534,524,"They are good looking","Singaporean","Women","Ranked first",1,0.09
+534,524,"They are good looking","Singaporean","Women","Ranked second",2,0.06
+534,524,"They are good looking","Singaporean","Women","Ranked third",3,0.09
+534,524,"They are good looking","Singaporean","Women","Ranked fourth",4,0.14
+534,524,"They are good looking","Singaporean","Women","Ranked fifth",5,0.23
+534,524,"They are good looking","Singaporean","Women","Ranked sixth",6,0.4
+534,524,"They have a personality I like","Singaporean","Women","Ranked first",1,0.5
+534,524,"They have a personality I like","Singaporean","Women","Ranked second",2,0.21
+534,524,"They have a personality I like","Singaporean","Women","Ranked third",3,0.13
+534,524,"They have a personality I like","Singaporean","Women","Ranked fourth",4,0.09
+534,524,"They have a personality I like","Singaporean","Women","Ranked fifth",5,0.04
+534,524,"They have a personality I like","Singaporean","Women","Ranked sixth",6,0.03
+534,524,"They have a sense of humour I like","Singaporean","Women","Ranked first",1,0.16
+534,524,"They have a sense of humour I like","Singaporean","Women","Ranked second",2,0.28
+534,524,"They have a sense of humour I like","Singaporean","Women","Ranked third",3,0.23
+534,524,"They have a sense of humour I like","Singaporean","Women","Ranked fourth",4,0.16
+534,524,"They have a sense of humour I like","Singaporean","Women","Ranked fifth",5,0.1
+534,524,"They have a sense of humour I like","Singaporean","Women","Ranked sixth",6,0.07
+534,524,"They are intelligent","Singaporean","Women","Ranked first",1,0.12
+534,524,"They are intelligent","Singaporean","Women","Ranked second",2,0.16
+534,524,"They are intelligent","Singaporean","Women","Ranked third",3,0.21
+534,524,"They are intelligent","Singaporean","Women","Ranked fourth",4,0.26
+534,524,"They are intelligent","Singaporean","Women","Ranked fifth",5,0.19
+534,524,"They are intelligent","Singaporean","Women","Ranked sixth",6,0.08
+534,524,"They have/make a decent amount of money","Singaporean","Women","Ranked first",1,0.03
+534,524,"They have/make a decent amount of money","Singaporean","Women","Ranked second",2,0.07
+534,524,"They have/make a decent amount of money","Singaporean","Women","Ranked third",3,0.13
+534,524,"They have/make a decent amount of money","Singaporean","Women","Ranked fourth",4,0.16
+534,524,"They have/make a decent amount of money","Singaporean","Women","Ranked fifth",5,0.3
+534,524,"They have/make a decent amount of money","Singaporean","Women","Ranked sixth",6,0.3
+534,524,"They have similar interests to me","Singaporean","Women","Ranked first",1,0.1
+534,524,"They have similar interests to me","Singaporean","Women","Ranked second",2,0.23
+534,524,"They have similar interests to me","Singaporean","Women","Ranked third",3,0.22
+534,524,"They have similar interests to me","Singaporean","Women","Ranked fourth",4,0.19
+534,524,"They have similar interests to me","Singaporean","Women","Ranked fifth",5,0.14
+534,524,"They have similar interests to me","Singaporean","Women","Ranked sixth",6,0.13
+507,490,"They are good looking","Swedish","Men","Ranked first",1,0.14
+507,490,"They are good looking","Swedish","Men","Ranked second",2,0.12
+507,490,"They are good looking","Swedish","Men","Ranked third",3,0.23
+507,490,"They are good looking","Swedish","Men","Ranked fourth",4,0.18
+507,490,"They are good looking","Swedish","Men","Ranked fifth",5,0.27
+507,490,"They are good looking","Swedish","Men","Ranked sixth",6,0.04
+507,490,"They have a personality I like","Swedish","Men","Ranked first",1,0.62
+507,490,"They have a personality I like","Swedish","Men","Ranked second",2,0.2
+507,490,"They have a personality I like","Swedish","Men","Ranked third",3,0.07
+507,490,"They have a personality I like","Swedish","Men","Ranked fourth",4,0.05
+507,490,"They have a personality I like","Swedish","Men","Ranked fifth",5,0.04
+507,490,"They have a personality I like","Swedish","Men","Ranked sixth",6,0.03
+507,490,"They have a sense of humour I like","Swedish","Men","Ranked first",1,0.09
+507,490,"They have a sense of humour I like","Swedish","Men","Ranked second",2,0.29
+507,490,"They have a sense of humour I like","Swedish","Men","Ranked third",3,0.25
+507,490,"They have a sense of humour I like","Swedish","Men","Ranked fourth",4,0.22
+507,490,"They have a sense of humour I like","Swedish","Men","Ranked fifth",5,0.11
+507,490,"They have a sense of humour I like","Swedish","Men","Ranked sixth",6,0.04
+507,490,"They are intelligent","Swedish","Men","Ranked first",1,0.08
+507,490,"They are intelligent","Swedish","Men","Ranked second",2,0.21
+507,490,"They are intelligent","Swedish","Men","Ranked third",3,0.23
+507,490,"They are intelligent","Swedish","Men","Ranked fourth",4,0.27
+507,490,"They are intelligent","Swedish","Men","Ranked fifth",5,0.17
+507,490,"They are intelligent","Swedish","Men","Ranked sixth",6,0.05
+507,490,"They have/make a decent amount of money","Swedish","Men","Ranked first",1,0
+507,490,"They have/make a decent amount of money","Swedish","Men","Ranked second",2,0.01
+507,490,"They have/make a decent amount of money","Swedish","Men","Ranked third",3,0.05
+507,490,"They have/make a decent amount of money","Swedish","Men","Ranked fourth",4,0.04
+507,490,"They have/make a decent amount of money","Swedish","Men","Ranked fifth",5,0.12
+507,490,"They have/make a decent amount of money","Swedish","Men","Ranked sixth",6,0.77
+507,490,"They have similar interests to me","Swedish","Men","Ranked first",1,0.08
+507,490,"They have similar interests to me","Swedish","Men","Ranked second",2,0.16
+507,490,"They have similar interests to me","Swedish","Men","Ranked third",3,0.18
+507,490,"They have similar interests to me","Swedish","Men","Ranked fourth",4,0.23
+507,490,"They have similar interests to me","Swedish","Men","Ranked fifth",5,0.29
+507,490,"They have similar interests to me","Swedish","Men","Ranked sixth",6,0.06
+499,523,"They are good looking","Swedish","Women","Ranked first",1,0.05
+499,523,"They are good looking","Swedish","Women","Ranked second",2,0.1
+499,523,"They are good looking","Swedish","Women","Ranked third",3,0.11
+499,523,"They are good looking","Swedish","Women","Ranked fourth",4,0.21
+499,523,"They are good looking","Swedish","Women","Ranked fifth",5,0.4
+499,523,"They are good looking","Swedish","Women","Ranked sixth",6,0.13
+499,523,"They have a personality I like","Swedish","Women","Ranked first",1,0.73
+499,523,"They have a personality I like","Swedish","Women","Ranked second",2,0.13
+499,523,"They have a personality I like","Swedish","Women","Ranked third",3,0.07
+499,523,"They have a personality I like","Swedish","Women","Ranked fourth",4,0.05
+499,523,"They have a personality I like","Swedish","Women","Ranked fifth",5,0.02
+499,523,"They have a personality I like","Swedish","Women","Ranked sixth",6,0.01
+499,523,"They have a sense of humour I like","Swedish","Women","Ranked first",1,0.08
+499,523,"They have a sense of humour I like","Swedish","Women","Ranked second",2,0.37
+499,523,"They have a sense of humour I like","Swedish","Women","Ranked third",3,0.26
+499,523,"They have a sense of humour I like","Swedish","Women","Ranked fourth",4,0.19
+499,523,"They have a sense of humour I like","Swedish","Women","Ranked fifth",5,0.07
+499,523,"They have a sense of humour I like","Swedish","Women","Ranked sixth",6,0.03
+499,523,"They are intelligent","Swedish","Women","Ranked first",1,0.07
+499,523,"They are intelligent","Swedish","Women","Ranked second",2,0.18
+499,523,"They are intelligent","Swedish","Women","Ranked third",3,0.28
+499,523,"They are intelligent","Swedish","Women","Ranked fourth",4,0.28
+499,523,"They are intelligent","Swedish","Women","Ranked fifth",5,0.17
+499,523,"They are intelligent","Swedish","Women","Ranked sixth",6,0.02
+499,523,"They have/make a decent amount of money","Swedish","Women","Ranked first",1,0
+499,523,"They have/make a decent amount of money","Swedish","Women","Ranked second",2,0.01
+499,523,"They have/make a decent amount of money","Swedish","Women","Ranked third",3,0.02
+499,523,"They have/make a decent amount of money","Swedish","Women","Ranked fourth",4,0.05
+499,523,"They have/make a decent amount of money","Swedish","Women","Ranked fifth",5,0.16
+499,523,"They have/make a decent amount of money","Swedish","Women","Ranked sixth",6,0.76
+499,523,"They have similar interests to me","Swedish","Women","Ranked first",1,0.08
+499,523,"They have similar interests to me","Swedish","Women","Ranked second",2,0.22
+499,523,"They have similar interests to me","Swedish","Women","Ranked third",3,0.26
+499,523,"They have similar interests to me","Swedish","Women","Ranked fourth",4,0.22
+499,523,"They have similar interests to me","Swedish","Women","Ranked fifth",5,0.18
+499,523,"They have similar interests to me","Swedish","Women","Ranked sixth",6,0.05
+426,503,"They are good looking","Thai","Men","Ranked first",1,0.33
+426,503,"They are good looking","Thai","Men","Ranked second",2,0.2
+426,503,"They are good looking","Thai","Men","Ranked third",3,0.2
+426,503,"They are good looking","Thai","Men","Ranked fourth",4,0.15
+426,503,"They are good looking","Thai","Men","Ranked fifth",5,0.08
+426,503,"They are good looking","Thai","Men","Ranked sixth",6,0.05
+426,503,"They have a personality I like","Thai","Men","Ranked first",1,0.34
+426,503,"They have a personality I like","Thai","Men","Ranked second",2,0.26
+426,503,"They have a personality I like","Thai","Men","Ranked third",3,0.15
+426,503,"They have a personality I like","Thai","Men","Ranked fourth",4,0.13
+426,503,"They have a personality I like","Thai","Men","Ranked fifth",5,0.07
+426,503,"They have a personality I like","Thai","Men","Ranked sixth",6,0.04
+426,503,"They have a sense of humour I like","Thai","Men","Ranked first",1,0.12
+426,503,"They have a sense of humour I like","Thai","Men","Ranked second",2,0.22
+426,503,"They have a sense of humour I like","Thai","Men","Ranked third",3,0.24
+426,503,"They have a sense of humour I like","Thai","Men","Ranked fourth",4,0.22
+426,503,"They have a sense of humour I like","Thai","Men","Ranked fifth",5,0.11
+426,503,"They have a sense of humour I like","Thai","Men","Ranked sixth",6,0.1
+426,503,"They are intelligent","Thai","Men","Ranked first",1,0.12
+426,503,"They are intelligent","Thai","Men","Ranked second",2,0.22
+426,503,"They are intelligent","Thai","Men","Ranked third",3,0.28
+426,503,"They are intelligent","Thai","Men","Ranked fourth",4,0.25
+426,503,"They are intelligent","Thai","Men","Ranked fifth",5,0.08
+426,503,"They are intelligent","Thai","Men","Ranked sixth",6,0.05
+426,503,"They have/make a decent amount of money","Thai","Men","Ranked first",1,0.02
+426,503,"They have/make a decent amount of money","Thai","Men","Ranked second",2,0.04
+426,503,"They have/make a decent amount of money","Thai","Men","Ranked third",3,0.08
+426,503,"They have/make a decent amount of money","Thai","Men","Ranked fourth",4,0.09
+426,503,"They have/make a decent amount of money","Thai","Men","Ranked fifth",5,0.29
+426,503,"They have/make a decent amount of money","Thai","Men","Ranked sixth",6,0.47
+426,503,"They have similar interests to me","Thai","Men","Ranked first",1,0.07
+426,503,"They have similar interests to me","Thai","Men","Ranked second",2,0.06
+426,503,"They have similar interests to me","Thai","Men","Ranked third",3,0.06
+426,503,"They have similar interests to me","Thai","Men","Ranked fourth",4,0.16
+426,503,"They have similar interests to me","Thai","Men","Ranked fifth",5,0.37
+426,503,"They have similar interests to me","Thai","Men","Ranked sixth",6,0.29
+596,519,"They are good looking","Thai","Women","Ranked first",1,0.2
+596,519,"They are good looking","Thai","Women","Ranked second",2,0.15
+596,519,"They are good looking","Thai","Women","Ranked third",3,0.19
+596,519,"They are good looking","Thai","Women","Ranked fourth",4,0.18
+596,519,"They are good looking","Thai","Women","Ranked fifth",5,0.13
+596,519,"They are good looking","Thai","Women","Ranked sixth",6,0.14
+596,519,"They have a personality I like","Thai","Women","Ranked first",1,0.33
+596,519,"They have a personality I like","Thai","Women","Ranked second",2,0.18
+596,519,"They have a personality I like","Thai","Women","Ranked third",3,0.14
+596,519,"They have a personality I like","Thai","Women","Ranked fourth",4,0.17
+596,519,"They have a personality I like","Thai","Women","Ranked fifth",5,0.13
+596,519,"They have a personality I like","Thai","Women","Ranked sixth",6,0.06
+596,519,"They have a sense of humour I like","Thai","Women","Ranked first",1,0.15
+596,519,"They have a sense of humour I like","Thai","Women","Ranked second",2,0.21
+596,519,"They have a sense of humour I like","Thai","Women","Ranked third",3,0.19
+596,519,"They have a sense of humour I like","Thai","Women","Ranked fourth",4,0.18
+596,519,"They have a sense of humour I like","Thai","Women","Ranked fifth",5,0.16
+596,519,"They have a sense of humour I like","Thai","Women","Ranked sixth",6,0.11
+596,519,"They are intelligent","Thai","Women","Ranked first",1,0.13
+596,519,"They are intelligent","Thai","Women","Ranked second",2,0.24
+596,519,"They are intelligent","Thai","Women","Ranked third",3,0.25
+596,519,"They are intelligent","Thai","Women","Ranked fourth",4,0.2
+596,519,"They are intelligent","Thai","Women","Ranked fifth",5,0.12
+596,519,"They are intelligent","Thai","Women","Ranked sixth",6,0.07
+596,519,"They have/make a decent amount of money","Thai","Women","Ranked first",1,0.04
+596,519,"They have/make a decent amount of money","Thai","Women","Ranked second",2,0.11
+596,519,"They have/make a decent amount of money","Thai","Women","Ranked third",3,0.11
+596,519,"They have/make a decent amount of money","Thai","Women","Ranked fourth",4,0.12
+596,519,"They have/make a decent amount of money","Thai","Women","Ranked fifth",5,0.23
+596,519,"They have/make a decent amount of money","Thai","Women","Ranked sixth",6,0.4
+596,519,"They have similar interests to me","Thai","Women","Ranked first",1,0.16
+596,519,"They have similar interests to me","Thai","Women","Ranked second",2,0.11
+596,519,"They have similar interests to me","Thai","Women","Ranked third",3,0.13
+596,519,"They have similar interests to me","Thai","Women","Ranked fourth",4,0.15
+596,519,"They have similar interests to me","Thai","Women","Ranked fifth",5,0.24
+596,519,"They have similar interests to me","Thai","Women","Ranked sixth",6,0.22
+620,670,"They are good looking","UAE","Men","Ranked first",1,0.28
+620,670,"They are good looking","UAE","Men","Ranked second",2,0.19
+620,670,"They are good looking","UAE","Men","Ranked third",3,0.14
+620,670,"They are good looking","UAE","Men","Ranked fourth",4,0.13
+620,670,"They are good looking","UAE","Men","Ranked fifth",5,0.19
+620,670,"They are good looking","UAE","Men","Ranked sixth",6,0.06
+620,670,"They have a personality I like","UAE","Men","Ranked first",1,0.34
+620,670,"They have a personality I like","UAE","Men","Ranked second",2,0.21
+620,670,"They have a personality I like","UAE","Men","Ranked third",3,0.18
+620,670,"They have a personality I like","UAE","Men","Ranked fourth",4,0.11
+620,670,"They have a personality I like","UAE","Men","Ranked fifth",5,0.09
+620,670,"They have a personality I like","UAE","Men","Ranked sixth",6,0.06
+620,670,"They have a sense of humour I like","UAE","Men","Ranked first",1,0.08
+620,670,"They have a sense of humour I like","UAE","Men","Ranked second",2,0.17
+620,670,"They have a sense of humour I like","UAE","Men","Ranked third",3,0.21
+620,670,"They have a sense of humour I like","UAE","Men","Ranked fourth",4,0.25
+620,670,"They have a sense of humour I like","UAE","Men","Ranked fifth",5,0.2
+620,670,"They have a sense of humour I like","UAE","Men","Ranked sixth",6,0.09
+620,670,"They are intelligent","UAE","Men","Ranked first",1,0.14
+620,670,"They are intelligent","UAE","Men","Ranked second",2,0.23
+620,670,"They are intelligent","UAE","Men","Ranked third",3,0.23
+620,670,"They are intelligent","UAE","Men","Ranked fourth",4,0.22
+620,670,"They are intelligent","UAE","Men","Ranked fifth",5,0.13
+620,670,"They are intelligent","UAE","Men","Ranked sixth",6,0.05
+620,670,"They have/make a decent amount of money","UAE","Men","Ranked first",1,0.03
+620,670,"They have/make a decent amount of money","UAE","Men","Ranked second",2,0.06
+620,670,"They have/make a decent amount of money","UAE","Men","Ranked third",3,0.07
+620,670,"They have/make a decent amount of money","UAE","Men","Ranked fourth",4,0.08
+620,670,"They have/make a decent amount of money","UAE","Men","Ranked fifth",5,0.16
+620,670,"They have/make a decent amount of money","UAE","Men","Ranked sixth",6,0.6
+620,670,"They have similar interests to me","UAE","Men","Ranked first",1,0.12
+620,670,"They have similar interests to me","UAE","Men","Ranked second",2,0.15
+620,670,"They have similar interests to me","UAE","Men","Ranked third",3,0.16
+620,670,"They have similar interests to me","UAE","Men","Ranked fourth",4,0.21
+620,670,"They have similar interests to me","UAE","Men","Ranked fifth",5,0.23
+620,670,"They have similar interests to me","UAE","Men","Ranked sixth",6,0.13
+382,332,"They are good looking","UAE","Women","Ranked first",1,0.12
+382,332,"They are good looking","UAE","Women","Ranked second",2,0.11
+382,332,"They are good looking","UAE","Women","Ranked third",3,0.11
+382,332,"They are good looking","UAE","Women","Ranked fourth",4,0.19
+382,332,"They are good looking","UAE","Women","Ranked fifth",5,0.23
+382,332,"They are good looking","UAE","Women","Ranked sixth",6,0.25
+382,332,"They have a personality I like","UAE","Women","Ranked first",1,0.43
+382,332,"They have a personality I like","UAE","Women","Ranked second",2,0.18
+382,332,"They have a personality I like","UAE","Women","Ranked third",3,0.14
+382,332,"They have a personality I like","UAE","Women","Ranked fourth",4,0.1
+382,332,"They have a personality I like","UAE","Women","Ranked fifth",5,0.11
+382,332,"They have a personality I like","UAE","Women","Ranked sixth",6,0.04
+382,332,"They have a sense of humour I like","UAE","Women","Ranked first",1,0.15
+382,332,"They have a sense of humour I like","UAE","Women","Ranked second",2,0.22
+382,332,"They have a sense of humour I like","UAE","Women","Ranked third",3,0.23
+382,332,"They have a sense of humour I like","UAE","Women","Ranked fourth",4,0.17
+382,332,"They have a sense of humour I like","UAE","Women","Ranked fifth",5,0.13
+382,332,"They have a sense of humour I like","UAE","Women","Ranked sixth",6,0.09
+382,332,"They are intelligent","UAE","Women","Ranked first",1,0.15
+382,332,"They are intelligent","UAE","Women","Ranked second",2,0.21
+382,332,"They are intelligent","UAE","Women","Ranked third",3,0.23
+382,332,"They are intelligent","UAE","Women","Ranked fourth",4,0.2
+382,332,"They are intelligent","UAE","Women","Ranked fifth",5,0.14
+382,332,"They are intelligent","UAE","Women","Ranked sixth",6,0.06
+382,332,"They have/make a decent amount of money","UAE","Women","Ranked first",1,0.03
+382,332,"They have/make a decent amount of money","UAE","Women","Ranked second",2,0.1
+382,332,"They have/make a decent amount of money","UAE","Women","Ranked third",3,0.1
+382,332,"They have/make a decent amount of money","UAE","Women","Ranked fourth",4,0.15
+382,332,"They have/make a decent amount of money","UAE","Women","Ranked fifth",5,0.19
+382,332,"They have/make a decent amount of money","UAE","Women","Ranked sixth",6,0.43
+382,332,"They have similar interests to me","UAE","Women","Ranked first",1,0.12
+382,332,"They have similar interests to me","UAE","Women","Ranked second",2,0.18
+382,332,"They have similar interests to me","UAE","Women","Ranked third",3,0.19
+382,332,"They have similar interests to me","UAE","Women","Ranked fourth",4,0.18
+382,332,"They have similar interests to me","UAE","Women","Ranked fifth",5,0.2
+382,332,"They have similar interests to me","UAE","Women","Ranked sixth",6,0.13
+545,532,"They are good looking","Vietnamese","Men","Ranked first",1,0.44
+545,532,"They are good looking","Vietnamese","Men","Ranked second",2,0.18
+545,532,"They are good looking","Vietnamese","Men","Ranked third",3,0.14
+545,532,"They are good looking","Vietnamese","Men","Ranked fourth",4,0.1
+545,532,"They are good looking","Vietnamese","Men","Ranked fifth",5,0.09
+545,532,"They are good looking","Vietnamese","Men","Ranked sixth",6,0.05
+545,532,"They have a personality I like","Vietnamese","Men","Ranked first",1,0.32
+545,532,"They have a personality I like","Vietnamese","Men","Ranked second",2,0.3
+545,532,"They have a personality I like","Vietnamese","Men","Ranked third",3,0.16
+545,532,"They have a personality I like","Vietnamese","Men","Ranked fourth",4,0.11
+545,532,"They have a personality I like","Vietnamese","Men","Ranked fifth",5,0.07
+545,532,"They have a personality I like","Vietnamese","Men","Ranked sixth",6,0.05
+545,532,"They have a sense of humour I like","Vietnamese","Men","Ranked first",1,0.04
+545,532,"They have a sense of humour I like","Vietnamese","Men","Ranked second",2,0.13
+545,532,"They have a sense of humour I like","Vietnamese","Men","Ranked third",3,0.2
+545,532,"They have a sense of humour I like","Vietnamese","Men","Ranked fourth",4,0.25
+545,532,"They have a sense of humour I like","Vietnamese","Men","Ranked fifth",5,0.24
+545,532,"They have a sense of humour I like","Vietnamese","Men","Ranked sixth",6,0.14
+545,532,"They are intelligent","Vietnamese","Men","Ranked first",1,0.11
+545,532,"They are intelligent","Vietnamese","Men","Ranked second",2,0.2
+545,532,"They are intelligent","Vietnamese","Men","Ranked third",3,0.25
+545,532,"They are intelligent","Vietnamese","Men","Ranked fourth",4,0.22
+545,532,"They are intelligent","Vietnamese","Men","Ranked fifth",5,0.17
+545,532,"They are intelligent","Vietnamese","Men","Ranked sixth",6,0.06
+545,532,"They have/make a decent amount of money","Vietnamese","Men","Ranked first",1,0.01
+545,532,"They have/make a decent amount of money","Vietnamese","Men","Ranked second",2,0.03
+545,532,"They have/make a decent amount of money","Vietnamese","Men","Ranked third",3,0.07
+545,532,"They have/make a decent amount of money","Vietnamese","Men","Ranked fourth",4,0.11
+545,532,"They have/make a decent amount of money","Vietnamese","Men","Ranked fifth",5,0.22
+545,532,"They have/make a decent amount of money","Vietnamese","Men","Ranked sixth",6,0.55
+545,532,"They have similar interests to me","Vietnamese","Men","Ranked first",1,0.08
+545,532,"They have similar interests to me","Vietnamese","Men","Ranked second",2,0.16
+545,532,"They have similar interests to me","Vietnamese","Men","Ranked third",3,0.18
+545,532,"They have similar interests to me","Vietnamese","Men","Ranked fourth",4,0.22
+545,532,"They have similar interests to me","Vietnamese","Men","Ranked fifth",5,0.21
+545,532,"They have similar interests to me","Vietnamese","Men","Ranked sixth",6,0.15
+458,471,"They are good looking","Vietnamese","Women","Ranked first",1,0.21
+458,471,"They are good looking","Vietnamese","Women","Ranked second",2,0.13
+458,471,"They are good looking","Vietnamese","Women","Ranked third",3,0.15
+458,471,"They are good looking","Vietnamese","Women","Ranked fourth",4,0.12
+458,471,"They are good looking","Vietnamese","Women","Ranked fifth",5,0.18
+458,471,"They are good looking","Vietnamese","Women","Ranked sixth",6,0.21
+458,471,"They have a personality I like","Vietnamese","Women","Ranked first",1,0.33
+458,471,"They have a personality I like","Vietnamese","Women","Ranked second",2,0.23
+458,471,"They have a personality I like","Vietnamese","Women","Ranked third",3,0.17
+458,471,"They have a personality I like","Vietnamese","Women","Ranked fourth",4,0.11
+458,471,"They have a personality I like","Vietnamese","Women","Ranked fifth",5,0.1
+458,471,"They have a personality I like","Vietnamese","Women","Ranked sixth",6,0.06
+458,471,"They have a sense of humour I like","Vietnamese","Women","Ranked first",1,0.11
+458,471,"They have a sense of humour I like","Vietnamese","Women","Ranked second",2,0.19
+458,471,"They have a sense of humour I like","Vietnamese","Women","Ranked third",3,0.16
+458,471,"They have a sense of humour I like","Vietnamese","Women","Ranked fourth",4,0.18
+458,471,"They have a sense of humour I like","Vietnamese","Women","Ranked fifth",5,0.2
+458,471,"They have a sense of humour I like","Vietnamese","Women","Ranked sixth",6,0.16
+458,471,"They are intelligent","Vietnamese","Women","Ranked first",1,0.19
+458,471,"They are intelligent","Vietnamese","Women","Ranked second",2,0.21
+458,471,"They are intelligent","Vietnamese","Women","Ranked third",3,0.2
+458,471,"They are intelligent","Vietnamese","Women","Ranked fourth",4,0.21
+458,471,"They are intelligent","Vietnamese","Women","Ranked fifth",5,0.11
+458,471,"They are intelligent","Vietnamese","Women","Ranked sixth",6,0.07
+458,471,"They have/make a decent amount of money","Vietnamese","Women","Ranked first",1,0.05
+458,471,"They have/make a decent amount of money","Vietnamese","Women","Ranked second",2,0.1
+458,471,"They have/make a decent amount of money","Vietnamese","Women","Ranked third",3,0.17
+458,471,"They have/make a decent amount of money","Vietnamese","Women","Ranked fourth",4,0.18
+458,471,"They have/make a decent amount of money","Vietnamese","Women","Ranked fifth",5,0.21
+458,471,"They have/make a decent amount of money","Vietnamese","Women","Ranked sixth",6,0.28
+458,471,"They have similar interests to me","Vietnamese","Women","Ranked first",1,0.1
+458,471,"They have similar interests to me","Vietnamese","Women","Ranked second",2,0.14
+458,471,"They have similar interests to me","Vietnamese","Women","Ranked third",3,0.14
+458,471,"They have similar interests to me","Vietnamese","Women","Ranked fourth",4,0.19
+458,471,"They have similar interests to me","Vietnamese","Women","Ranked fifth",5,0.2
+458,471,"They have similar interests to me","Vietnamese","Women","Ranked sixth",6,0.22

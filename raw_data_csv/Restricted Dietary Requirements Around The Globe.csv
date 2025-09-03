@@ -1,0 +1,56 @@
+"Diet","Region","Followers"
+"Low Fat","Asia-Pacific",0.37
+"Low Fat","Europe",0.2
+"Low Fat","Africa/Middle East",0.36
+"Low Fat","Latin America",0.39
+"Low Fat","North America",0.19
+"Sugar Conscious","Asia-Pacific",0.27
+"Sugar Conscious","Europe",0.22
+"Sugar Conscious","Africa/Middle East",0.28
+"Sugar Conscious","Latin America",0.32
+"Sugar Conscious","North America",0.22
+"Low Sodium","Asia-Pacific",0.22
+"Low Sodium","Europe",0.08
+"Low Sodium","Africa/Middle East",0.13
+"Low Sodium","Latin America",0.24
+"Low Sodium","North America",0.21
+"Low Carbohydrate","Asia-Pacific",0.23
+"Low Carbohydrate","Europe",0.11
+"Low Carbohydrate","Africa/Middle East",0.17
+"Low Carbohydrate","Latin America",0.2
+"Low Carbohydrate","North America",0.15
+"Vegetarian","Asia-Pacific",0.19
+"Vegetarian","Europe",0.05
+"Vegetarian","Africa/Middle East",0.16
+"Vegetarian","Latin America",0.08
+"Vegetarian","North America",0.06
+"Flexitarian","Asia-Pacific",0.16
+"Flexitarian","Europe",0.05
+"Flexitarian","Africa/Middle East",0.16
+"Flexitarian","Latin America",0.1
+"Flexitarian","North America",0.06
+"Halal","Asia-Pacific",0.12
+"Halal","Europe",0.04
+"Halal","Africa/Middle East",0.48
+"Halal","Latin America",0.01
+"Halal","North America",0.03
+"Wheat or Gluten Free","Asia-Pacific",0.1
+"Wheat or Gluten Free","Europe",0.04
+"Wheat or Gluten Free","Africa/Middle East",0.08
+"Wheat or Gluten Free","Latin America",0.1
+"Wheat or Gluten Free","North America",0.08
+"Lactose/Dairy Free","Asia-Pacific",0.1
+"Lactose/Dairy Free","Europe",0.05
+"Lactose/Dairy Free","Africa/Middle East",0.08
+"Lactose/Dairy Free","Latin America",0.14
+"Lactose/Dairy Free","North America",0.07
+"Vegan","Asia-Pacific",0.09
+"Vegan","Europe",0.02
+"Vegan","Africa/Middle East",0.06
+"Vegan","Latin America",0.04
+"Vegan","North America",0.02
+"Kosher","Asia-Pacific",0.07
+"Kosher","Europe",0.01
+"Kosher","Africa/Middle East",0.04
+"Kosher","Latin America",0.02
+"Kosher","North America",0.04

@@ -1,0 +1,17 @@
+"(E)xtroversion/(I)ntroversion","(S)ensing/I(N)tuition","(T)hinking/(F)eeling","(J)udging/(P)erceiving","Ratio in Population"
+"E","S","T","J",0.087
+"E","S","T","P",0.043
+"E","S","F","J",0.123
+"E","S","F","P",0.085
+"E","N","T","J",0.018
+"E","N","T","P",0.032
+"E","N","F","J",0.025
+"E","N","F","P",0.081
+"I","S","T","J",0.116
+"I","S","T","P",0.054
+"I","S","F","J",0.138
+"I","S","F","P",0.088
+"I","N","T","J",0.021
+"I","N","T","P",0.033
+"I","N","F","J",0.015
+"I","N","F","P",0.044
